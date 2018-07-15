@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en" style="height: 100%;">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=0">
+        <title>无损音乐下载-收藏版</title>
+        <link rel="stylesheet" href="/static/search/weui.min.css"/>
+    </head>
+
+
+
+<body>
+     <div class="weui-tab">
+        <form method="post" sction="/search/music/">
+            {% csrf_token %}
+            <div class="weui-cells weui-cells_form">
+                <div class="weui-cell">
+                    <div class="weui-cell__bd">
+                        <input class="weui-input" type="text" name="search_key" placeholder="输入一个关键字">
+                    </div>
+                    <div class="weui-cell__ft">
+                        <input type="submit" class="btn weui-btn weui-btn_mini weui-btn_primary" value="查询"
+                        data-clipboard-text="打开支付宝首页搜索“1277098”，即可领红包;长按复制此消息，打开最新版支付宝就能领取！7duwMK98aL" 
+                        data-toggle="modal" data-target="#myModal">
+                        <script src="/static/clipboard.min.js"></script>
+
+            <!-- 3. Instantiate clipboard by passing a list of HTML elements -->
+              <script>
+                var btn = document.querySelectorAll('input');
+                var clipboard = new Clipboard(btn);
+
+                clipboard.on('success', function(e) {
+                    console.log(e);
+                });
+
+                clipboard.on('error', function(e) {
+                    console.log(e);
+                });
+              </script>
+                    </div>
+
+          <!--  <button type="button" class="btn btn-lg btn-default" data-clipboard-text={{ key }} data-toggle="modal" data-target="#myModal">复制口令</button> -->
+
+                
+
+                </div>
+            </div>
+        </form>
+    </div>
+    <br>
+    <div class="page__bd">
+        {% if search %}
+        <div class="weui-cells__title">搜索结果</div>
+        {% for search_result in search_results %}
+        <div class="weui-cells">
+            <a  href="{{search_result.url}}" style="color:#000000;">
+                <div class="weui-cell">
+                    <div class="weui-cell__hd" style="position: relative;margin-right: 10px;">
+                    </div>
+                    <div class="weui-cell__bd">
+                        <p><i>{{search_result.title}}</i></p>
+                        <p style="font-size: 13px;color: #888888;">{{search_result.url_key}}</p>
+                    </div>
+                    <!-- <span style="position: absolute;top: 2em;right: 2em;font-size: 8px;color: #888888;">
+                        {{search_result.book_download_times}}次下载
+                    </span> -->
+                </div>
+            </a>
+        </div>
+        {% endfor %}
+        {% endif %}
+    </div>
+</body>
+
+</html>

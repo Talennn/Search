@@ -1,0 +1,1516 @@
+[26/Jun/2018 23:47:56] "GET /search/music/ HTTP/1.1" 200 2130
+[26/Jun/2018 23:48:00] "POST /search/music/ HTTP/1.1" 200 2206
+[26/Jun/2018 23:51:41] "POST /search/music/ HTTP/1.1" 200 2206
+[26/Jun/2018 23:51:46] "POST /search/music/ HTTP/1.1" 200 2206
+[26/Jun/2018 23:51:48] "GET /search/music/ HTTP/1.1" 200 2130
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 26, 2018 - 23:47:53
+Django version 2.0.1, using settings 'Search.settings'
+Starting development server at http://0.0.0.0:8899/
+Quit the server with CONTROL-C.
+<QuerySet []>
+<QuerySet []>
+<QuerySet []>
+<QuerySet [{'url': 'http://pan.baidu.com/s/1bn4EdlH', 'content': "大家对其最熟悉的California Dreamin，电影《阿甘正传》（Forrest Gump）中，阿甘在越南的雨中给Jenny写信时，响起的背景音乐就是这首加州梦想。在王家卫导演的电影《重庆森林》中王菲也摇头晃脑地哼唱着这美妙的旋律。\n这首歌来自The Mamas & the Papas。可能不是有很多人听说过这个组合，不过看过《重庆森林》或者是《阿甘正传》的话就应该记得《California Dreamin'》这首歌曲。这个声音就是来自于The Mamas & the Papas。通俗的曲式，唯美的人声，这是the Mamas & the Papas乐队给你的一个率意的黎明，在那片走不出的重庆森林里，有一个姑娘也曾经和我们一起为梦中的加洲手舞足蹈。", 'article_writer': 'John Phillips', 'title': 'The Mamas And The Papas - California Dreamin.ape', 'id': 3, 'music_writer': 'Michelle Phillips', 'url_key': '提取密码：m2dt'}, {'url': 'http://pan.baidu.com/s/1hq9nxZ2', 'content': 'Super star是台湾艺人团体S.H.E于2003年8月推出的第五张音乐专辑。此专辑特别邀请了德国SweetBox、瑞典Ace of Base王牌合唱团、英国Bananarama的超级制作人GEO，为她们跨国量声订作出SUPER STAR，这首歌是S.H.E从未尝试过的摇滚曲风，推出后大受欢迎。专辑同名主打歌曲也为《super star》。', 'article_writer': '施人诚', 'title': 'SHE - Super Star.ape', 'id': 41, 'music_writer': 'Jade、Geoman', 'url_key': '提取密码：xmn1'}, {'url': 'http://pan.baidu.com/s/1qW8re2o', 'content': '专辑的每首歌背后都又有着有趣的故事，每一首歌都凝聚着唱片公司的诚意和S.H.E的努力，整张专辑听下来让没有了生气的耳朵顿生欣喜而难以割舍。用一位歌迷在BBS上留言的话说：大牌歌手时刻用音乐说话。因为S.H.E，我们更爱音乐；因为音乐，我们更爱这个世界。', 'article_writer': '施人诚', 'title': 'SHE - 不想长大.ape', 'id': 168, 'music_writer': '左安安', 'url_key': '提取密码：08ac'}, {'url': 'http://pan.baidu.com/s/1gdj6X95', 'content': '此外，还有首次合作的马毓芬老师，由於马毓芬老师合声功力相当深厚，因此对S.H.E的合声特别要求，如第一主打歌「美丽新世界」里三人合声分部音域差异相当大，由以HEBE的音最高，让HEBE不断嘲弄自己说「我好像每张专辑都要不断的向高音挑战」，不过听到成品后，大家发现「电子味十足」的「美丽新世界」整首歌听来特别的甜，制作人直说这是首甜到心里的『甜蜜电音』，与一般的摇头电音相当的不同。', 'article_writer': '李天龙、颜玺轩', 'title': 'SHE - 美丽新世界.ape', 'id': 231, 'music_writer': '李天龙', 'url_key': '提取密码：29w5'}, {'url': 'http://pan.baidu.com/s/1hq1fUni', 'content': '《Take Me to Your Heart》 是丹麦4人男子组合Michael Learns To Rock的第6张大碟，这张大碟中你可以欣赏到10首旋律优美，琅琅上口的，充满 M.L.T.R.抒情的作品，从这张碟子你完全可以感受到他们对音乐的执着和诚意。特别值得推荐的是主打歌曲《Take Me to Your Heart》，大家听了肯定会感到十分亲切舒服，因为它就是香港天王张学友《吻别》的英文版， M.L.T.R.的版本少了一份哀怨，多了几分情意。', 'article_writer': 'Jascha Richter', 'title': 'Michael Learns To Rock - Take Me To Your Heart.ape', 'id': 237, 'music_writer': '殷文琦', 'url_key': '提取密码：mh0p'}, {'url': 'http://pan.baidu.com/s/1eQxgk6I', 'content': '《一眼万年》这首歌是电视剧《天外飞仙》的主题曲，由SHE演绎。当初SHE是第一次演绎这种曲风，所以一改往日嘻嘻哈哈的本性，认真起来，拍MV也是，公司领导看到后，说：“早知道这样，就早点让她们唱这种歌了，以前太难管了！”当初为了找这首歌，公司花了很长的时间，听了很多 Demo 都觉得不适合《天外飞仙》，后来找到林俊杰为 S.H.E 所写的曲，大家一听后觉得简直就是戏的主题曲，再加上请来姚若龙填词，将戏中的无限情感化为文字。', 'article_writer': '姚若龙', 'title': 'SHE - 一眼万年.ape', 'id': 487, 'music_writer': '林俊杰', 'url_key': '提取密码：rp8m'}, {'url': 'http://pan.baidu.com/s/1jGhzhwq', 'content': '除了低音贝斯演奏家出版的个人专辑，很少有歌曲是以贝斯做为主奏乐器。但警察合唱团的THE POLICE\xa0Every breath you take 这首歌就是以贝斯支撑起整首歌曲，而且大受欢迎，在一九八三年的告示牌排行榜上，它曾经蝉连八周冠军，并成为年终个地方官方的规定发给排行的总冠军。', 'article_writer': 'Sting', 'title': 'The Police - Every Breath You Take.ape', 'id': 518, 'music_writer': 'Sting', 'url_key': '提取密码：32i9'}, {'url': 'http://pan.baidu.com/s/1bn6FJbD', 'content': '《月桂女神》是中国古典曲风加上西洋声乐，歌曲描述著希腊神话中月桂女神达芙妮与太阳神阿波罗的爱情故事，歌曲中S.H.E 再度表现完美合声，全歌浩瀚辽阔，视频利用古希腊人物做背景拍摄，仿佛置身古希腊，亲临神话现场一般。', 'article_writer': '方文山', 'title': 'SHE - 月桂女神.ape', 'id': 524, 'music_writer': '李天龙', 'url_key': '提取密码：az2t'}, {'url': 'http://pan.baidu.com/s/1gd5RMrL', 'content': '《Hey Jude》是披头士乐队成员保罗·麦卡特尼创作的一首歌，于1968年发行。原本计划收录进同名专辑《The Beatles》，後来作为单曲发行，并迅速成为了当年的冠军单曲。《Hey Jude》原曲长7分11秒。这首歌的原名是《Hey Julian》，后来改为《Hey Jules》，最终变成《Hey Jude》。 虽然它比一般的单曲长了两倍，但还是广受欢迎，并且很快就成了英国和荷兰的排行榜冠军。短短两个星期后就出人意料地售出了两百万张，并且在美国的美国告示牌Billboard 榜首位置上停留了9个星期。《Hey Jude》在全球的销量超过了八百万张。', 'article_writer': 'John Lennon/Paul James Mccartney', 'title': 'The Beatles - Hey Jude.ape', 'id': 593, 'music_writer': 'John Lennon/Paul James Mccartney', 'url_key': '提取密码：ct9h'}, {'url': 'http://pan.baidu.com/s/1xUuB0', 'content': '帅气摇滚曲风的《痛快》是由左安安作曲、施人诚作词，SWEETBOX编曲、制作，歌词中让S.H.E唱出新世代的《痛快》主张， S.H.E表示这首痛快相当摇滚有劲，不自觉得就会跟著HIGH、跟著唱，相信又是歌迷跟著大合唱的歌曲。', 'article_writer': '施人诚', 'title': 'SHE - 痛快.ape', 'id': 615, 'music_writer': '左安安', 'url_key': '提取密码：4l5g'}, {'url': 'http://pan.baidu.com/s/1c0nbaKS', 'content': '《半糖主义》爱情何必要像黏皮糖，E世代女孩爱情新主张。S.H.E继「REMEMBER」最劲痛快舞曲。为翻唱瑞典流行组合Play的歌曲《Cinderella》', 'article_writer': '徐世珍', 'title': 'SHE - 半糖主义.ape', 'id': 645, 'music_writer': 'U.Robbinn，K.Savigar', 'url_key': '提取密码：2umr'}, {'url': 'http://pan.baidu.com/s/1o6hWV3c', 'content': 'S.H.E在2001年出道时发行的第一张专辑《女生宿舍》的主打歌，翻唱自Destiny‘s Child的《Brown Eyes》 《恋人未满》的灵感主要是来自日文《友达以上，恋人未满》，意思是说两人的关系不只是朋友但还不到情人的尴尬阶段，歌词细腻传递女生在此尴尬期对爱情的憧憬与期待。制作人希望她们要唱出属于自己的感情、属于自己的味道，不刻意去要求技巧，让他们忘记原曲的困难度，让《恋人未满》是属于S.H.E的味道的。', 'article_writer': '施人诚', 'title': 'SHE - 恋人未满.ape', 'id': 688, 'music_writer': 'B.K./W.A.', 'url_key': '提取密码：uwet'}, {'url': 'http://pan.baidu.com/s/1dDteDot', 'content': '《他还是不懂》收录在S.H.E《奇幻旅程》中，像歌词唱的那样，他还不懂，离开是想要被挽留。让人在听歌的同时想到分手的痛。', 'article_writer': '徐世珍', 'title': 'SHE - 他还是不懂.ape', 'id': 691, 'music_writer': '王治平', 'url_key': '提取密码：19cb'}, {'url': 'http://pan.baidu.com/s/1mgKAQ2O', 'content': '从70年代到80年代，在日益喧嚣的欧美流行乐坛上，警察乐队以其讲究旋律的慢摇滚风格，异军突起, 受到全球乐迷们的拥戴。而作为这支著名摇滚乐队的首脑人物，斯汀(Sting)则被誉为警察的灵魂。', 'article_writer': 'Sting', 'title': 'The Police - The Police.ape', 'id': 697, 'music_writer': 'Sting', 'url_key': '提取密码：tag6'}, {'url': 'http://pan.baidu.com/s/1bnb7Lkb', 'content': 'S.H.E表示其实自己的也不是那种情窦初开的年纪，但因为这歌相当可爱，因此在配唱这首RING RING RING时，就把想象自己是个刚情窦初开期待又怕受伤害、用手机谈恋爱的女孩，还有加上一些口白，整首歌也因此听来相当可爱俏皮！', 'article_writer': '张家玮', 'title': 'SHE - Ring Ring Ring.ape', 'id': 722, 'music_writer': '张博彦', 'url_key': '提取密码：mr3c'}, {'url': 'http://pan.baidu.com/s/1kTJqOQV', 'content': '《我爱你》取材自 MV 导演马宜中父执辈的真实故事，故事中的主角在 40 多年前都是北大的学生，后来因为战乱的关系女生逃来了台湾，到了适婚年龄在家庭的压力之下结了婚、也当了祖母。但男生却一直坚守诺言，一辈子不婚，待在学校教书等候女主角，深怕女生会找不到他。一对恋人在分隔 40 年后重逢，女主角全家都支持她回去，包括女主角的老公也支持她甚至卖掉一栋房子让他们这对苦命鸳鸯相聚…', 'article_writer': '姚若龙', 'title': 'SHE - 我爱你.ape', 'id': 746, 'music_writer': 'Geoman/Villalon from Sweetbox ', 'url_key': '提取密码：t1y5'}, {'url': 'http://pan.baidu.com/s/1o6v4fvO', 'content': 'Good night\n东京 是否还在飘雨\n台北好天气 我好想念你\n星光闪耀 今生能遇见你真好\n喔 I Believe\n话不说 你也知道\n沉闷的世界因为有了你\n一切都改变\n就连隔夜的一杯廉价咖啡\n都变得香甜\n不害怕 不担心\n我和幸福有约定\n就算是寂寞也不理\n因为思念让爱零距离\n为了你 我愿意\n多用心照顾自己\n也请你千万别忘记\n我们曾和幸福有约定\n\xa0', 'article_writer': '潘协庆', 'title': 'SHE - 我和幸福有约定.ape', 'id': 773, 'music_writer': '潘协庆', 'url_key': '提取密码：o26r'}, {'url': 'http://pan.baidu.com/s/1o6x5YWi', 'content': '《I.O.I.O》爱情要甜蜜就应该要时时贴心 S.H.E全新俏皮复古舞曲逗趣呈现。翻唱自爱尔兰三人组合BeeGees《I.O.I.O》', 'article_writer': '韩吉', 'title': 'SHE - I.O.I.O.ape', 'id': 791, 'music_writer': 'Gibb M/Gibb B.A', 'url_key': '提取密码：mlbj'}, {'url': 'http://pan.baidu.com/s/1gdsuyUf', 'content': 'SHE‘S GONE这首悲伤的爱情歌曲，在乐队的演义下显得充满了灵性，整首歌用钢琴托底，以吉他点缀加上主唱撕破心一样的高音，使得它成为首支可以要一个人听后流泪的歌曲，所以向来以全世界最悲情民族之称的韩国将此歌买下作为他们一部电视剧的插曲。', 'article_writer': 'Steelheart', 'title': "Steelheart - She's Gone.ape", 'id': 910, 'music_writer': 'Micheal Matijevic', 'url_key': '提取密码：h85g'}, {'url': 'http://pan.baidu.com/s/1eQh7lZG', 'content': '一次在一个有创意的咖啡馆小坐,一首熟稔的曲子一下子抓住了我的心,那不是席琳•迪翁《爱的力量》吗?尽管乐声很轻,,但这首曲子特有的张力和穿透力仍然使人觉得荡气回肠,余音绕梁……', 'article_writer': '大卫·福斯特', 'title': 'Celine Dion - 爱的力量(The Power Of Love).ape', 'id': 993, 'music_writer': '艾尔伯特·阿蒙德', 'url_key': '提取密码：vk1c'}, '...(remaining elements truncated)...']>[26/Jun/2018 23:51:52] "POST /search/music/ HTTP/1.1" 200 378530
+
+<QuerySet [{'url': 'http://pan.baidu.com/s/1kToiKCn', 'content': '《江南》是新加坡歌手林俊杰创作并演唱的一首歌曲，收录于其个人专辑《第二天堂》（中国内地发行名称为《江南》）中，是为本专辑中国内地版第一主打歌。本首歌曲另有重新填词之粤语版本，收录于其个人专辑《西界》（庆功版）中。', 'article_writer': '李瑞洵', 'title': '林俊杰 - 江南.ape', 'id': 52, 'music_writer': '林俊杰', 'url_key': '提取密码：djza'}, {'url': 'http://pan.baidu.com/s/1bppGfcb', 'content': '《美人鱼》是由林秋离作词，林俊杰作曲，林俊杰演唱的一首歌曲，收录在专辑《江南》中。这首歌是一首流行风格的歌曲。歌曲展现了林俊杰的高超唱功和创作才能。', 'article_writer': '简胜，林秋离', 'title': '林俊杰 - 美人鱼.flac', 'id': 83, 'music_writer': '林俊杰', 'url_key': '提取密码：iqq6'}, {'url': 'http://pan.baidu.com/s/1jG2xWv8', 'content': 'JJ说: "很多人跟我一样是从漫画和电玩中认识-曹操, 有人说他好有人说他坏, 虽然褒贬不一, 我却很欣赏曹操的态度, 觉得他代表的是一种精神, 虽然霸道却很聪明, 有想法和魅力！这样的态度也代表我新专辑的精神！虽然我平常个性很温和, 不过做起音乐来就很拼很吓人, 我觉得我在音乐上的想法就像曹操对中国的想法一样, 都想把一切结合成为一体, 曹操想把中国整合为一, 而我则是想把音乐与人合为一体, 这是我们共同的野心和期望！”', 'article_writer': '林秋离', 'title': '林俊杰 - 曹操.ape', 'id': 142, 'music_writer': '林俊杰', 'url_key': '提取密码：v80g'}, {'url': 'http://pan.baidu.com/s/1pJ4V5Xp', 'content': '这是一首容易让人记住的抒情口水歌。JJ自爆，生日当天，林俊杰原想跟心仪的女生告白，没想到对方告诉他：“我梦见我和你的朋友交往，不是跟你在一起。”林俊杰在节目中说：“那是一个还没开始就结束的故事，我那时候才知道，原来喜欢的女生要的不是我。”后来创作《你要的不是我》这首歌时，他总会想起这个女生。', 'article_writer': '林怡凤', 'title': '林俊杰 - 你要的不是我.ape', 'id': 192, 'music_writer': '林俊杰', 'url_key': '提取密码：z5r8'}, {'url': 'http://pan.baidu.com/s/1o88X1fc', 'content': '继“红本女”之后，联想电脑再次搞出一个非主流玩法：选用网民捧出的卡通形象“酷库熊”代言新款IdeaPad S9/S10笔记本电脑，并为此投拍了名为《爱·在线》的网络电影，由歌星林俊杰创作了主题曲《Always online》。', 'article_writer': '林怡凤', 'title': '林俊杰 - Always Online.ape', 'id': 310, 'music_writer': '林俊杰', 'url_key': '提取密码：5h8y'}, {'url': 'http://pan.baidu.com/s/1kTxClW7', 'content': '《被风吹过的夏天》灵感来自于与师妹的聊天。当时金莎谈到了一次在三亚拍摄广告的一段感情邂逅，JJ静静聆听着师妹的倾诉，但音乐的旋律已早早在脑海中记录。于是连夜赶制出了这首近年歌坛难得的男女对唱佳作。', 'article_writer': '冯欣慧', 'title': '林俊杰 金莎 - 被风吹过的夏天.ape', 'id': 541, 'music_writer': '林俊杰', 'url_key': '提取密码：xx1j'}, {'url': 'http://pan.baidu.com/s/1o6I4Frk', 'content': '《小酒窝》是JJ林俊杰收录在自己第六张专辑《JJ陆》中的一首主打歌曲，这首歌可说是这次JJ最想要跟大家传递的想法及专辑概念：“每个人都可以有自己对潮流的看法，不需要随波逐流，人云亦云。潮流不一定代表时尚的衣服，而是一个人的成就，除了创造的一切，还有对生命的态度的融合体。”非常贴切传达出林俊杰的JFJ哲学。', 'article_writer': '林怡凤', 'title': '林俊杰 - 小酒窝.ape', 'id': 1000, 'music_writer': '林俊杰', 'url_key': '提取密码：pdto'}, {'url': 'http://pan.baidu.com/s/1eQgl07C', 'content': '在《一千年以后》中， 不论是对情感的释放还是唱腔的把握上，我们能明显感觉到JJ林俊杰的蜕变，一改《江南》略显羞涩的情感宣泄与乖乖仔的形象，呈现出男人特有的质感，表达出理性的思考方式。', 'article_writer': '林秋离', 'title': '林俊杰 - 一千年以后.ape', 'id': 1008, 'music_writer': '林俊杰', 'url_key': '提取密码：eh5g'}, {'url': 'http://pan.baidu.com/s/1hqgN5mG', 'content': '这首歌意思是说，以前爱那个人的时候太爱了，注意力都放在他身上，为他悲伤为他愁，忽略了自己的快乐。离开他以后反而慢慢找回了自我，和属于自己的快乐。总之就是讲女孩子在爱中迷失自我，又在分手后找回自我的心情。', 'article_writer': '瑞业', 'title': '林俊杰 - 爱笑的眼睛.ape', 'id': 1017, 'music_writer': '林俊杰', 'url_key': '提取密码：tuxe'}, {'url': 'http://pan.baidu.com/s/1sj357Kp', 'content': '作为林俊杰新专辑第二主打歌曲的《背对背拥抱》，其实起初的创作只是一场宣泄情绪的大声呐喊氛围。JJ因为听了自己朋友历经被误解的委屈，以及工作遇到瓶颈的难解痛苦，感同身受地好像自己也曾经历过这些低潮与不堪的情绪涌上心头，一触即发。JJ同时也想呈现另一种抒情的摇滚，情感深刻的呐喊之余，想传达给大家把握当下，珍惜情份的感慨。人与人的误会终将云淡风清，可是人和人之间的相遇可能仅此一回，一期一会的难得缘份必须紧紧抓牢。 当大家很好奇的问起：背对背要怎么拥抱？JJ用创作人的感性语气希望大家听完这首歌，即使看不到，虽然背对着背，也要在心里，跟自己爱的人拥抱。', 'article_writer': '林怡凤', 'title': '林俊杰 - 背对背拥抱.ape', 'id': 1035, 'music_writer': '林俊杰', 'url_key': '提取密码：hapn'}, {'url': 'http://pan.baidu.com/s/1kToiG4J', 'content': '在这首歌，回忆着一段单纯又无悔的恋爱，当木讷寡言的男孩遇上敢爱敢恨的女孩，没有办法替女孩解决什么问题，只能静静的在屋顶上陪她看着天空或是骑着单车到两人初识的那棵大树下，随意谈天、聊聊校园生活，一场意外，这段感情突生变化，却还是深深的埋藏在女孩的心里。', 'article_writer': '邢增华', 'title': '林俊杰 - 我还想她.ape', 'id': 1042, 'music_writer': '林俊杰', 'url_key': '提取密码：trfh'}, {'url': 'http://pan.baidu.com/s/1kTC5ePh', 'content': '《醉赤壁》是由方文山（作词）林俊杰（作曲）的一首中国风的情歌，JJ与方文山透过“赤壁online game”的虚拟世界题材元素，将三国时代的女子“小乔”透过文字及音符，共同创作出“赤壁online game”的主题曲《醉赤壁》。林俊杰和方文山，online game互相较劲，将喜好化为创作，共谱三国时代的小乔故事，让“赤壁online game”更添阳刚气之外的铁汉柔情。', 'article_writer': '方文山', 'title': '林俊杰 - 醉赤壁.ape', 'id': 1071, 'music_writer': '林俊杰', 'url_key': '提取密码：jxjh'}, {'url': 'http://pan.baidu.com/s/1i3omFoL', 'content': '歌曲《豆浆油条》是林俊杰第二张音乐专辑《江南》（内地版）中的第五首歌曲，由俊杰作曲、张思尔作词，2004年6月4日星文唱片公司发行。', 'article_writer': '张思尔', 'title': '林俊杰 - 豆浆油条.ape', 'id': 1073, 'music_writer': '林俊杰', 'url_key': '提取密码：n17a'}, {'url': 'http://pan.baidu.com/s/1sjPQf9N', 'content': '10秒钟内房间打扫完毕\n3分钟楼下开车等你\n男朋友不乖我撵他出去\n你寂寞我陪你谈心\n可是电脑病毒让我生病\n不知不觉中我爱上你\n我行为变的不由自己\n主人我绝对不背叛你', 'article_writer': '林秋离 张思尔', 'title': '林俊杰 - 编号89757.ape', 'id': 1095, 'music_writer': '林俊杰', 'url_key': '提取密码：l84c'}, {'url': 'http://pan.baidu.com/s/1pJryt6r', 'content': '《简简单单》是由张思尔和向月娥作词，林俊杰作曲，林俊杰演唱的一首歌曲，收录在专辑《编号89757》中。这首歌是一首流行风格的歌曲。歌曲展现了林俊杰的创作才能。', 'article_writer': '张思尔 向月娥', 'title': '林俊杰 - 简简单单.ape', 'id': 1096, 'music_writer': '林俊杰', 'url_key': '提取密码：s5c5'}, {'url': 'http://pan.baidu.com/s/1sj8VloD', 'content': '《不潮不用花钱》是JJ林俊杰收录在自己第六张专辑《JJ陆》中的一首主打歌曲，这首歌可说是这次JJ最想要跟大家传递的想法及专辑概念：“每个人都可以有自己对潮流的看法，不需要随波逐流，人云亦云。潮流不一定代表时尚的衣服，而是一个人的成就，除了创造的一切，还有对生命的态度的融合体。”非常贴切传达出林俊杰的JFJ哲学。', 'article_writer': '林怡凤', 'title': '林俊杰 - 不潮不用花钱.ape', 'id': 1128, 'music_writer': '林俊杰', 'url_key': '提取密码：5y6l'}, {'url': 'http://pan.baidu.com/s/1c0nGU7e', 'content': '《她说》对林俊杰来说，创作的原点即是从女生观点为出发的一段感受，也很期待能透过‘她说’带出平凡却深刻感人的故事，就像许多电影的配乐和主题曲一样，因为旋律让画面唱进了心里，因为画面让旋律刻进了脑海里。', 'article_writer': '孙燕姿', 'title': '林俊杰 - 她说.ape', 'id': 1160, 'music_writer': '林俊杰', 'url_key': '提取密码：0gke'}, {'url': 'http://pan.baidu.com/s/1o6CyYka', 'content': '《害怕》由李瑞洵作词林俊杰作曲，收录于专辑《江南》。', 'article_writer': '李瑞洵', 'title': '林俊杰 - 害怕.ape', 'id': 1215, 'music_writer': '林俊杰', 'url_key': '提取密码：rwpy'}, {'url': 'http://pan.baidu.com/s/1ntG4PvV', 'content': '“第二天堂”在中国内地因歌词内容血腥和黑暗曾被禁唱。', 'article_writer': '张忠良 林秋离', 'title': '林俊杰 - 第二天堂.ape', 'id': 1331, 'music_writer': '林俊杰', 'url_key': '提取密码：5vps'}, {'url': 'http://pan.baidu.com/s/1jGsox2e', 'content': '《杀手》是由作词，林俊杰作曲，林俊杰演唱的一首歌曲，收录在专辑《西界》中。这首歌是一首流行风格的歌曲。歌曲展现了林俊杰的高超唱功和创作才能。', 'article_writer': '林秋离', 'title': '林俊杰 - 杀手.ape', 'id': 1358, 'music_writer': '林俊杰', 'url_key': '提取密码：km9r'}, '...(remaining elements truncated)...']>[26/Jun/2018 23:52:01] "POST /search/music/ HTTP/1.1" 200 104061
+
+<QuerySet [{'url': 'http://pan.baidu.com/s/1jG2xRts', 'content': '天生歌姬带来爱的救赎，2010第一女声 aLin 失恋无罪！“失恋无罪”完全依 aLin 量身订做，牵动人对于感情不舍的回忆，就像诉说一个会发生在你我身边的故事，如此切身之痛。声音表现上，由 aLin 中低音混厚的声线唱出，失去爱情的痛苦，听不见苦楚与懊悔，反而透出坚定的力道，正是 aLin 独特的解忧良药，仿佛失去的都已经在这首歌里重新找回，同时宣告2006年将是她大放异彩的起跑点。', 'article_writer': '林夕', 'title': 'A-Lin - 失恋无罪.ape', 'id': 1, 'music_writer': '刘勇志', 'url_key': '提取密码：m853'}, {'url': 'http://pan.baidu.com/s/1hqoUP8o', 'content': '\xa0《赤红热血》是中国香港殿堂级摇滚乐队Beyond的一首音乐作品，它收录在Beyond于1988年发行的粤语专辑《现代舞台》内。\n\xa0\n黑暗处埋藏着没法解开忧郁的问号\n孤独地双眼里沉迷在舞影粉饰灯光的梦幻\n心荡漾 仿佛心底中的温暖完全离别我\n空虚中的心底仿似如同狼在叫\n赤红热血 双眼里似冰又似火 掩饰我寂寞\n有谁令我 呼喊里再不负痛楚 与泪痕永别\n酒醉了 迷糊乱与初相识的她倚伴着\n冲动地拥抱着 犹如堕进那魔一般的火焰上\n心混乱', 'article_writer': '梁美薇', 'title': 'Beyond - 赤红热血.ape', 'id': 2, 'music_writer': '黄家驹', 'url_key': '提取密码：4mia'}, {'url': 'http://pan.baidu.com/s/1bn4EdlH', 'content': "大家对其最熟悉的California Dreamin，电影《阿甘正传》（Forrest Gump）中，阿甘在越南的雨中给Jenny写信时，响起的背景音乐就是这首加州梦想。在王家卫导演的电影《重庆森林》中王菲也摇头晃脑地哼唱着这美妙的旋律。\n这首歌来自The Mamas & the Papas。可能不是有很多人听说过这个组合，不过看过《重庆森林》或者是《阿甘正传》的话就应该记得《California Dreamin'》这首歌曲。这个声音就是来自于The Mamas & the Papas。通俗的曲式，唯美的人声，这是the Mamas & the Papas乐队给你的一个率意的黎明，在那片走不出的重庆森林里，有一个姑娘也曾经和我们一起为梦中的加洲手舞足蹈。", 'article_writer': 'John Phillips', 'title': 'The Mamas And The Papas - California Dreamin.ape', 'id': 3, 'music_writer': 'Michelle Phillips', 'url_key': '提取密码：m2dt'}, {'url': 'http://pan.baidu.com/s/1hqn8PBu', 'content': '《空白格》是由蔡健雅作词、作曲，蔡健雅演唱的一首歌曲，收录在专辑《goodbye &hello》中。这首歌是一首流行风格的歌曲。歌曲展现了蔡健雅高超的唱功及创作功力。', 'article_writer': '蔡健雅', 'title': '蔡健雅 - 空白格.flac', 'id': 4, 'music_writer': '蔡健雅', 'url_key': '提取密码：e7u7'}, {'url': 'http://pan.baidu.com/s/1ntDNaRZ', 'content': '这首乐曲首出自王家卫经典影片《东邪西毒》。开始是紧密的鼓点，所引导的节奏加入厚重的打击乐音，当隐忍铺陈的鼓点旋律完全舒展开来那一刻，就好象千万道光从密云中迸发出来一样，神秘诡异却又明亮庄严，有种教人大气不敢喘的莫名的听觉喜悦。听者顿觉扬眉吐气，醍醐灌顶，精神猛的为之一振。\n《天地孤影任我行》由于乐风极其苍凉雄浑，既豪气又悲壮，后在电影中多次被引用。最经典的当属《大话西游》的引用。大话西游结尾，紫霞死的时候对至尊宝说：我猜中了开头，但我猜不中这结局。响起的也是这首曲子，感动了无数人。\n《东邪西毒》和《大话西游》都是讲爱情，但是两部风格截然不同的电影，配同一首曲子，居然不会显得突兀，也许正是这首曲子经典之处了。', 'article_writer': '无', 'title': '陈勋奇 - 天地孤影任我行.ape', 'id': 5, 'music_writer': '陈勋奇', 'url_key': '提取密码：d063'}, {'url': 'http://pan.baidu.com/s/1i3n6LMX', 'content': '在世界流行乐坛中，北欧常常能为我们带来一些惊喜。而来自丹麦的Michael Learns To Rock（MLTR）就是其中之一。乐队广受欢迎的一个难以避免的负面影响就是大量盗版的出现，而在东南亚国家尤为猖獗。为了对付这个问题，MLTR特意在1996年向东南亚地区推出一张含金量极高的专辑——《PAINT MY LOVE》。这实际上是MLTR出道以来所得成绩的一次小结，其中包含前面所有专辑中最热门的单曲，并加入了同名单曲PAINT MY LOVE。尽管这首歌的MTV在许多国家都受到影视检查处的严格审查，它再次证明了乐队无与伦比的才华。最终专辑的销量达到了340万。1997年7月，作为主要表演嘉宾之一，MLTR参加了香港回归中国的庆祝音乐会。\n这首歌同样也是香港TVB电视剧《妙手仁心》的主要插曲之一。', 'article_writer': 'Jascha Richter', 'title': 'Michael Learns To Rock - Paint My Love.ape', 'id': 6, 'music_writer': 'Jascha Richter', 'url_key': '提取密码：lmjq'}, {'url': 'http://pan.baidu.com/s/1bnrgKaj', 'content': "\xa0重砸400万音乐制作费 坚持12首歌都是主打歌才出片 陈小春耍狠出招！\n距离上一张‘That's Mine’专辑隔了一年4个月，即将在八月底带着最新国语专辑‘算你狠’于全亚洲出辑。\n去年4月发行的‘That's Mine’专辑，带动港台流行音乐市场的嘻哈风潮，秉在亚洲各国获得大小奖项肯定，今年年初陈小春更在香港红墈举办了生平第一场个人演唱会，颇受各界好评。\n之后小春忙于电影的拍摄却始终心系新专辑的筹划，从制作人的人选到歌曲曲风的设定及专辑造型，小春持续与唱片公司研讨并且亲自打理专辑造型服，企图在这张专辑再造流行音乐新浪潮。", 'article_writer': '陶喆/郑中庸/蔡振南', 'title': '陈小春 - 算你狠.ape', 'id': 7, 'music_writer': '陶喆/蔡振南', 'url_key': '提取密码：ejxq'}, {'url': 'http://pan.baidu.com/s/1o6jYM6I', 'content': '\xa02000年8月，王杰复出台湾乐坛，推出大碟《从今开始(HelloWorld)。《伤心1999》成为当年国语乐坛的大热歌曲。\n这张专辑的销量在当年达到60万。\n新城劲爆颁奖礼-第三季劲歌金曲季选《伤心1999》 我的选择中国原创音乐流行榜总选-十二首金曲 《伤心1999》 TVB-8金曲榜-十五首金曲《伤心1999》', 'article_writer': '陈静楠', 'title': '王杰 - 伤心1999.ape', 'id': 8, 'music_writer': '林东松', 'url_key': '提取密码：ils7'}, {'url': 'http://pan.baidu.com/s/1qWlqDVe', 'content': '不要哭了吗 该哭的人是我吧\n你都坦白爱上了他 我有什么办法\n我也同意啦 既然你提出想法\n我们不要拖拖拉拉 就从明天开始吧\n那就这样吧 再爱都曲终人散啦\n那就分手吧 再爱都无须挣扎\n不要再问我 怎舍得拱手让他\n你走吧 到了记得要给我通电话\n那就这样吧 再爱都要sayonara\n再给抱一下 闻一闻你的长发\n不要再哭啦 快把眼泪擦一擦\n这样吧 再爱我有缘的话\n快去把东西收拾一下\n再耗下去都天亮啦\n这里的钥匙你先留著吧\n怕你有东西 假如你有东西忘了拿\n那就这样吧 再爱都曲终人散啦\n那就分手吧 再爱都无须挣扎\n不要再问我 怎舍得拱手让他\n你走吧 到了记得要给我通电话\n那就这样吧 再爱都要sayonara\n再给抱一下 闻一闻你的长发\n不要再哭啦 快把眼泪擦一擦\n这样吧 再爱我有缘的话', 'article_writer': '阿轩', 'title': '动力火车 - 那就这样吧.ape', 'id': 9, 'music_writer': '阿轩', 'url_key': '提取密码：mciv'}, {'url': 'http://pan.baidu.com/s/1jGl2Nie', 'content': '\xa0《明年今日》是香港著名歌手陈奕迅演唱的一首粤语歌曲，歌曲《十年》是《明年今日》的国语版，收录于其专辑《THE LINE-UP》中；本曲还是电影《贱精先生》插曲。', 'article_writer': '林夕', 'title': '陈奕迅 - 明年今日.ape', 'id': 10, 'music_writer': '陈小霞', 'url_key': '提取密码：giju'}, {'url': 'http://pan.baidu.com/s/1dE2onYT', 'content': '\xa0\n繁星流动 和你同路\n从不相识 开始心接近\n默默以真挚待人\n人生如梦 朋友如雾\n难得知心 几经风暴\n为着我不退半步 正是你\n遥遥晚空点点星光息息相关\n你我那怕荆棘铺满路\n替我解开心中的孤单\n是谁明白我\n情同两手一起开心一起悲伤\n彼此分担总不分我或你\n你为了我 我为了你\n共赴患难绝望里 紧握你手\n朋友\n\xa0\n繁星流动 和你同路\n从不相识 开始心接近\n默默以真挚待人\n人生如梦 朋友如雾\n难得知心 几经风暴\n为着我不退半步 正是你\n遥遥晚空点点星光息息相关\n你我那怕荆棘铺满路\n替我解开心中的孤单\n是谁明白我\n情同两手一起开心一起悲伤\n彼此分担总不分我或你\n你为了我 我为了你\n共赴患难绝望里 紧握你手\n朋友\n遥遥晚空点点星光息息相关\n你我那怕荆棘铺满路\n替我解开心中的孤单\n是谁明白我\n情同两手一起开心一起悲伤\n彼此分担总不分我或你\n你为了我 我为了你\n共赴患难绝望里 紧握你手\n朋友', 'article_writer': '向雪怀', 'title': '谭咏麟 - 朋友.ape', 'id': 11, 'music_writer': '芹泽广明', 'url_key': '提取密码：r8qd'}, {'url': 'http://pan.baidu.com/s/1eQDv6tO', 'content': '\xa02002年FIFA世界杯主旋律由索尼古典音乐家范哲利斯(Vangelis)作曲。\n由范哲利斯(Vangelis)创作的这一部分世界杯主旋律作品，主要突出表现世界杯首次在亚洲举办的世界影响。该曲采用韩国和日本音乐中的古典鼓和其他冲击因素，结合一东方舒缓的曲调。从而创造出感人的情节以唤起足球运动韵律与感情。', 'article_writer': '纯音乐', 'title': '群星 - 2002FIFA世界杯主旋律.ape', 'id': 12, 'music_writer': '范哲利斯(Vangelis)', 'url_key': '提取密码：94o7'}, {'url': 'http://pan.baidu.com/s/1o6JkPMa', 'content': '\xa02002年FIFA世界杯主旋律由索尼古典音乐家范哲利斯(Vangelis)作曲。\n由范哲利斯(Vangelis)创作的这一部分世界杯主旋律作品，主要突出表现世界杯首次在亚洲举办的世界影响。该曲采用韩国和日本音乐中的古典鼓和其他冲击因素，结合一东方舒缓的曲调。从而创造出感人的情节以唤起足球运动韵律与感情。', 'article_writer': '纯音乐', 'title': '群星 - 2002FIFA世界杯主旋律2.ape', 'id': 13, 'music_writer': '范哲利斯(Vangelis)', 'url_key': '提取密码：n6ps'}, {'url': 'http://pan.baidu.com/s/1hseax96', 'content': '唐朝乐队的首发专辑《唐朝乐队》主打歌曲，是中国大陆罕有的重金属风格的摇滚代表作之一。\n唐朝乐队 唐朝乐队 1992年底，唐朝乐队在西单音像大世界举行首发式，他们的首张专辑唱片----《唐朝乐队》面世。专辑发行后，其歌曲中所蕴含的巨大音乐能量迅速在大陆、港台掀起风暴狂潮。他们的名字与新闻频繁在各媒体上出现，他们的歌曲在各地电台排行榜上雄居不下。使“唐朝”成为当年亚洲最值得注意的文化现象。', 'article_writer': '唐朝', 'title': '唐朝乐队 - 梦回唐朝.flac', 'id': 14, 'music_writer': '唐朝', 'url_key': '提取密码：x71y'}, {'url': 'http://pan.baidu.com/s/1gd9V5mj', 'content': '歌词：\n\xa0\n午夜的收音机轻轻传来一首歌\n那是你我都已熟悉的旋律\n当你遗忘的时候我依然还记得\n明天你是否依然爱我\n我早已经了解追逐爱情的规则\n虽然不能爱你却又不知该如何\n相信总会有一天你一定会离去\n但明天你是否依然爱我\n所有的故事只能有一首主题歌\n我知道你最后的选择\n所有的爱情只能有一个结果\n我深深知道那绝对不是我\n既然曾经爱过又何必真正拥有你\n即使离别也不会有太多难过\n午夜里的旋律一直重复着那首歌\nWill you still love me tomorrow', 'article_writer': '杨立德', 'title': '童安格 - 明天你是否依然爱我.ape', 'id': 15, 'music_writer': '童安格', 'url_key': '提取密码：ljju'}, {'url': 'http://pan.baidu.com/s/1gd1OfwZ', 'content': '在“爱我还是他”的歌词里，陶喆写着：“每当爱变成煎熬，你就开始要逃…你爱我还是他？是不是真的他有比我好，你为谁在挣扎 ？你爱我还是他？ 就说出你想说的真心话，你到底要跟我，还是他？…”，歌词一针见血的直指人内心里无力面对现实的挣扎及面临道义与最爱抉择的煎熬 。', 'article_writer': '娃娃&陶喆', 'title': '陶喆 - 爱我还是他.ape', 'id': 16, 'music_writer': '陶喆', 'url_key': '提取密码：pijp'}, {'url': 'http://pan.baidu.com/s/1kUVM87d', 'content': '2004年，一首叫《丁香花》的网络歌曲感动了中国。这首歌的作者和演唱者名叫唐磊，是深圳的一个网络歌手，各大媒体把他誉为“刀郎之后，中国第二个‘自下而上’的红歌星”。', 'article_writer': '唐磊', 'title': '唐磊 - 丁香花.flac', 'id': 17, 'music_writer': '唐磊', 'url_key': '提取密码：f2zd'}, {'url': 'http://pan.baidu.com/s/1qW15FFe', 'content': '歌词\n朋友啊朋友\n你可曾想起了我\n如果你正享受幸福\n请你忘记我 朋友啊朋友\n你可曾记起了我\n如果你正承受不幸\n请你告诉我\n朋友啊朋友\n你可曾想起了我\n如果你正享受幸福\n请你忘记我\n朋友啊朋友\n你可曾记起了我\n如果你正承受不幸\n请你告诉我\n朋友啊朋友\n你可曾记起了我\n如果你有新的\n你有新的彼岸\n请你离开我离开我\n朋友啊朋友\n你可曾想起了我\n如果你正享受幸福\n请你忘记我\n朋友啊朋友\n你可曾记起了我\n如果你正承受不幸\n请你告诉我\n朋友啊朋友\n你可曾记起了我\n如果你有新的\n你有新的彼岸\n请你离开我离开我\n朋友啊朋友\n你可曾记起了我\n如果你有新的\n你有新的彼岸\n请你离开我离开我\n朋友啊朋友\n你可曾记起了我\n如果你有新的\n你有新的彼岸\n请你离开我离开我', 'article_writer': '黄集伟', 'title': '臧天朔 - 朋友.ape', 'id': 18, 'music_writer': '臧天朔', 'url_key': '提取密码：o2hs'}, {'url': 'http://pan.baidu.com/s/1pJBbkfx', 'content': '歌词内容\n\xa0\n还没好好地感受\n雪花绽放的气候\n我们一起颤抖\n会更明白什么是温柔\n还没跟你牵着手\n走过荒芜的沙丘\n可能从此以后\n学会珍惜天长和地久\n有时候\u3000有时候\n我会相信一切有尽头\n相聚离开都有时候\n没有什么会永垂不朽\n可是我\u3000有时候\n宁愿选择留恋不放手\n等到风景都看透\n也许你会陪我看细水长流\n还没为你把红豆\n熬成缠绵的伤口\n然后一起分享\n会更明白相思的哀愁', 'article_writer': '林夕', 'title': '王菲 - 红豆.ape', 'id': 19, 'music_writer': '柳重言', 'url_key': '提取密码：off9'}, {'url': 'http://pan.baidu.com/s/1jbsWA', 'content': '\xa0收录在《盖世英雄》这张专辑里！是专辑里的抒情主打歌，这首歌第一次听感觉很熟悉。特别顺耳。让人感动，超好听。', 'article_writer': '王力宏/陳鎮川/K.Tee', 'title': '王力宏 - 大城小爱.ape', 'id': 20, 'music_writer': '王力宏', 'url_key': '提取密码：x5nw'}, '...(remaining elements truncated)...']>
+<QuerySet [{'url': 'http://pan.baidu.com/s/1ntHkYEH', 'content': "Because you're good to me' babe' I know. Because you're good to me", 'article_writer': '陈奂仁/黄振轩', 'title': "陈奕迅 - Because You're Good To Me.ape", 'id': 407, 'music_writer': '陈奂仁', 'url_key': '提取密码：bw5t'}, {'url': 'http://pan.baidu.com/s/1kTmMMj1', 'content': 'kissgoodbye是《我叫金三顺》中文版的片尾曲，收录在王力宏2005年发行的专辑《盖世英雄》里面，十分受到歌迷的喜爱。', 'article_writer': '王力宏 ', 'title': '王力宏 - Kiss Goodbye.ape', 'id': 935, 'music_writer': '王力宏', 'url_key': '提取密码：uibd'}, {'url': 'http://pan.baidu.com/s/1jGJYDzK', 'content': '通宵的喧哗 很吸引吧\n你不想归家 只想逛吓\n你High到声沙 乌哩马叉\n你跟他响旺角 兜到出沙头角\n超低音Woodfer 差D爆炸\n片番个急弯 几大要撑\n你相信专家 都买你怕\n怕且你好自我 怕且已经大个\n\xa0\nYou Have A Good Time\nGood Time Good Time\nYou Have A Good Time\nGood Time Good Time\n\xa0\n周身都穿窿 一感到痛\n你一味识凶 一味够勇\n你一味好朦 一味放纵\n你不会讲代价 你只系想腐化\n\xa0\n你有否念过想做怎么\n\xa0\n你有否念过听日如何', 'article_writer': '黄贯中', 'title': 'Beyond - Goodtime.ape', 'id': 1566, 'music_writer': '黄贯中', 'url_key': '提取密码：scw2'}, {'url': 'http://pan.baidu.com/s/1F5mUU', 'content': '《Say Goodbye to Hollywood》选自专辑《The Complete Hits Collection1973-1997》。由Billy Joel创作演唱，为Billy Joel的经典代表作之一。', 'article_writer': 'Billy Joel', 'title': 'Billy Joel - Say Goodbye to Hollywood.ape', 'id': 1917, 'music_writer': 'Billy Joel', 'url_key': '提取密码：jchi'}, {'url': 'http://pan.baidu.com/s/1i35hAqL', 'content': '张学友《\n》原曲', 'article_writer': 'Freddie Perren & Christine Yarian', 'title': "Boyz II Men - It's So Hard To Say Goodbye To Yesterday.ape", 'id': 1922, 'music_writer': 'Freddie Perren & Christine Yarian', 'url_key': '提取密码：sk05'}, {'url': 'http://pan.baidu.com/s/1mghuOY0', 'content': "Wouldn't It Be Good\nSongwriters:\nKershaw, Nik;\nI got it bad, you don't know how bad I got it\nYou got it easy, you don't know when you've got it good\nIt's getting harder, just keeping life and soul together\nI'm sick of fighting, even though I know I should\nThe cold is biting\nThrough each and every nerve and fiber\nMy broken spirit is frozen to the core\nI don't want to be here no more\nWouldn't it be good to be in your shoes\nEven if it was for just one day\nAnd wouldn't it be good\nIf we could wish ourselves away\nWouldn't it be good to be on your side\nThe grass is always greener over there\nAnd wouldn't it be good\nIf we could live without a care\nYou must be joking, you don't know a thing about it\nYou've got no problems, I'd stay right there if I were you\nI got it harder, you couldn't dream how hard I got it\n[ Stay out of my shoes if you know what's good for you\nThe heat is stifling\nBurning me up from the inside\nThe sweat is coming through each and every pore\nI don't want to be here no more\nI don't want to be here no more\nI don't want to be here no more\nWouldn't it be good to be in your shoes\nEven if it was for just one day\nAnd wouldn't it be good\nIf we could wish ourselves away\nWouldn't it be good to be on your side\nThe grass is always greener over there\nAnd wouldn't it be good\nIf we could live without a care\nI got it bad, you don't know how bad I got it\nYou got it easy, you don't know when you've got it good\nIt's getting harder, just keeping life and soul together\nI'm sick of fighting, even though I know I should", 'article_writer': '佚名', 'title': "Nik Kershaw - Wouldn't It Be Good.ape", 'id': 2109, 'music_writer': '佚名', 'url_key': '提取密码：vhsn'}, {'url': 'http://pan.baidu.com/s/1kT3b7h1', 'content': "Con te partiro / Time to Say Goodbye 告别时刻 \u3000\u3000\nQuando sono solo / When I'm alone 当我独自一人的时候 \u3000\u3000\nsogno all'orizzonte / I dream of the horizon 我梦见地平线 \u3000\u3000\ne mancan le parole / and words fail me 而话语舍弃了我 \u3000\u3000\nsi lo so che non c'e luce / There is no light 没有阳光的房间里 \u3000\u3000\nin una stanza quando manca il sole / in a room where there is no sun 也没有光线 \u3000\u3000\nse non ci sei tu con me, con me / and there is no sun if you're not here with me, with me 假如你不在我身边 \u3000\u3000\nsu le finestre / From every window 透过每一扇窗 \u3000\u3000\nmostra a tutti il mio cuore / unfurl my heart 招展着我的心 \u3000\u3000\nche hai acceso / the heart that you have won 我那已属于你的心 \u3000\u3000\nchiudi dentro me / Into me you've poured the light 你施予到我心中 \u3000\u3000\nla luce che / the light 光 \u3000\u3000\nhai incontrato per strada / that you found by the side of the road 你在路旁所发现的 \u3000\u3000\nCon te partiro / Time to say goodbye 我将与你同航 \u3000\u3000\npaesi che non ho mai / Places that I've never seen or 那些我从未看过 \u3000\u3000\nveduto e vissuto con te / experienced with you 从未和你一起体验的地方 \u3000\u3000\nadesso si li vivro / now I shall 现在我就将看到和体验 \u3000\u3000\ncon te partiro / I'll sail with you 我将与你同航 \u3000\u3000\nsu navi per mari / upon ships across the seas 在那越洋渡海的船上 \u3000\u3000\nche io lo so / seas that exist no more 在那不再存在的海洋 \u3000\u3000\nno no non esistono piu / I'll revive them with you 我将与你一起让它们再通行 \u3000\u3000\ncon te io li vivro / it's time to say goodbye 我将与你同航 \u3000\u3000\nQuando sei lontana / When you're far away 当你在遥远他方的时候 \u3000\u3000\nsogno all'orizzonte / I dream of the horizon 我梦见地平线 \u3000\u3000\ne mancan le parole / and words fail me 而话语舍弃了我 \u3000\u3000\ne io si lo so / and of course I know我当然知道 \u3000\u3000\nche sei con me con me / that you're with me, with me 你是和我在一起的 \u3000\u3000\ntu mia luna tu sei qui con me / you, my moon, you are with me 你---我的月亮，你和我在一起\u3000 \u3000\u3000\nmia solo tu sei qui con me / my sun, you're here with me 我的太阳，你就在此与我相随 \u3000\u3000\ncon me con me con me / with me, with me, with me 与我、与我、与我 \u3000\u3000\nCon te partiro / Time to say goodbye 我将与你同航 \u3000\u3000\npaesi che non ho mai / Places that I've never seen or 那些我从未看过 \u3000\u3000\nveduto e vissuto con te / experienced with you 从未和你一起体验的地方 \u3000\u3000\nadesso si li vivro / now I shall 现在我就将看到和体验 \u3000\u3000\ncon te partiro / I'll sail with you 我将与你同航 \u3000\u3000\nsu navi per mari / upon ships across the seas 在那越洋渡海的船上 \u3000\u3000\nche io lo so / seas that exist no more 在那不再存在的海洋 \u3000\u3000\nno no non esistono piu / I'll revive them with you 我将与你一起再让它们通行 \u3000\u3000\ncon te io li vivro / I'll go with you 我将与你同航 \u3000\u3000\nCon te partiro / upon ships across the seas 在那越洋渡海的船上 \u3000\u3000\nsu navi per mari / seas that exist no more 在那不再存在的海洋 \u3000\u3000\nche io lo so / I'll revive them with you 我将与你一起再让它们通行 \u3000\u3000\nno no non esistono piu / I'll go with you 我将与你同航 \u3000\u3000\ncon te io li vivro / I'll go with you 我将与你同航 \u3000\u3000\nCon te partiro / I'll sail with you 我将与你同航 \u3000\u3000\nIo con te / I with you 我和你", 'article_writer': 'Lucio Quarantotto', 'title': 'Sarah Brightman - Time To Say Goodbye(Con Te Partiro).ape', 'id': 2296, 'music_writer': 'Francesco Sartori', 'url_key': '提取密码：6hlv'}, {'url': 'http://pan.baidu.com/s/1qW0PEg8', 'content': 'だからいま 会いにゆく そう決めたんだ\nポケットの この曲を 君に聴かせたい\n\xa0\nそっとヴォリュームを上げて 確かめてみたよ\n\xa0\noh Good-bye days いま 変わる気がする 昨日までに so long\nかっこよくない優しさがそばにあるから\n～with you\n\xa0\n片方の イヤフォンを 君に渡す\nゆっくりと 流れ込む この瞬間\n\xa0\nうまく愛せていますか? たまに迷うけど\n\xa0\noh Good-bye days いま 変わり始めた 胸の奥 alright\nかっこよくない優しさがそばにあるから\n～with you\n\xa0\nできれば 悲しい 想いなんてしたくない\nでもやってくるでしょ?\nそのとき 笑顔で Yeah hello!! my friend なんてさ\n言えたならいいのに…\n\xa0\n同じ唄を 口ずさむ時 そばにいて I wish\nかっこよくない優しさに会えてよかったよ', 'article_writer': 'YUI', 'title': 'YUI - Good-bye days.flac', 'id': 2735, 'music_writer': 'YUI', 'url_key': '提取密码：gsb5'}, {'url': 'http://pan.baidu.com/s/1eQzjBA6', 'content': '我期待\u3000有一天我会回来\n回到我最初的爱\u3000回到童贞的神采\n我期待有一天我会明白\n明白人世的至爱\u3000明白原始的情怀\n我情愿\u3000分合的无奈\u3000能换来春夜的天籁\n我情愿\u3000现在与未来\u3000能充满秋凉的爽快\nSAY GOODBYE SAY GOODBYE\n前前后后\u3000迂迂回回地试探\nSAY GOODBYE SAY GOODBYE\n昂首阔步\u3000不留一丝遗憾', 'article_writer': '张雨生', 'title': '张雨生 - Say goodbye.ape', 'id': 3983, 'music_writer': '张雨生', 'url_key': '提取密码：36ih'}, {'url': 'http://pan.baidu.com/s/1gdf5LIF', 'content': 'Disc 1\xa0\n1.命硬\xa0\n2.不可一世\xa0\n3.伤追人\xa0\n4.走音\xa0\n5.我有今日\xa0\n6.Volar\xa0\n7.二等天使\xa0\n8.情永落\xa0\n9.Lately\xa0\n10.I Believe I Can Fly\xa0\n11.You Are So Beautiful\xa0\n12.月半湾\xa0\n\xa0\nDisc 2\xa0\n1.Erica\n2.Loving You\n3.你的名字我的姓氏\n4.过去的女人 - 杨千嬅+侧田\xa0\n5.美丽之最\xa0\n6.大雄\xa0\n7.逢星期四\xa0\n8.流行曲 - 侧田+林海峰\xa0\n9.运\xa0\n10我不是好人\xa0\n11.决战二世祖\xa0\n12.Kong\xa0\n13.好人 \xa0', 'article_writer': '(多人)', 'title': '侧田 - 专辑《One Good Show》2CD整轨无损.ape', 'id': 4689, 'music_writer': '(多人)', 'url_key': '提取密码：7myd'}, {'url': 'http://pan.baidu.com/s/1bn2FfrT', 'content': "夜渐已深驱不散\n星光引路催促归家\n但是我心真的盼\n天天畅聚身边有着你\n有了你我做每事更添力量\n爱意暖透笑声里共行心印心\n完全紧记着你何当能舍你\n缘份盼永远延长下去\nDon't say goodbye\xa0\n浓情冲不淡没法变改\nDon't say goodbye\xa0\n浓情冲不淡没法变\n冲不淡没法变心中爱\n浪漫舞曲轻吹奏\n今宵告别他朝相亲\n但是我心真的盼\n天天畅聚身边有着你\n你说你我共努力创新道路\n纵有挫折挽手继续行不再分\n能同声说万句情意藏心里\n缘份盼永远延长下去", 'article_writer': '黄真', 'title': '谭咏麟 - Dont Say Goodbye.ape', 'id': 5076, 'music_writer': '铃木 大津', 'url_key': '提取密码：sy1e'}, {'url': 'http://pan.baidu.com/s/1c0Gn0Us', 'content': 'That I would be good\n\xa0\n<-3->\n<-2->\n<-1->\nthat I would be good\neven if I did nothing\n\xa0\nthat I would be good\neven if I got the thumbs down\n\xa0\nthat I would be good\nif I got and stayed sick\n\xa0\nthat I would be good\neven if I given ten pounds\n\xa0\nthat I would be fine\neven if I went bankrupt\n\xa0\nthat I would be good\nif I lost my hair and my youth\n\xa0\nthat I would be great\neven I was no longer queen\n\xa0\nthat I would be grand\nif was not all knowing\n\xa0\nthat I would be loved\neven when I numb myself\n\xa0\nthat I would be good\neven when I am overwhelmed\n\xa0\nthat I would be good\neven when I was fuming\n\xa0\nthat I would be good\neven if I was clingy\n\xa0\nthat I would be good\neven if I lost sanity\n\xa0\nthat I would be good\nwhether with or without you\nla... ah...', 'article_writer': 'A. MORISSETTE', 'title': '孙燕姿 - That I Would Be Good.wav', 'id': 6557, 'music_writer': 'A. MORISSETTE', 'url_key': '提取密码：9gnz'}, {'url': 'http://pan.baidu.com/s/1gdu2DFX', 'content': '谁在那天匆匆远行\u3000然而在这刻却突然如此接近\n曾是有些心灰意沉\u3000如迷途的心不见路人\n谁是我的初恋爱人\u3000为何在这刻你突然明知故问\n能让你的温馨飘渗\u3000如日月星光都已降临\n那晚共你初次面对\u3000已早知将会日渐倾心\n\xa0\n你说或再一次别去\u3000我不须知道假\u3000也不须知道真\nHello Goodbye My Love\u3000再爱一次\u3000对对错错以后再分\nHello Goodbye My Love\u3000冷冷的世界有你再热吻\u3000是梦幻亦甘心要等\nHello Goodbye My Love\u3000过去的寂寞但愿日后叫做醉心\nHello Goodbye My Love\u3000远去的旧梦\u3000现在是否跟我最近', 'article_writer': '刘卓辉', 'title': '黎明 - Goodbye My Love(醉心).flac', 'id': 6562, 'music_writer': 'Taizo Jinnouchi', 'url_key': '提取密码：iscs'}, {'url': 'http://pan.baidu.com/s/1mhGScVe', 'content': "Woah-oh-oh-oh\nIt's always a good time\nWoah-oh-oh-oh\nIt's always a good time\n\xa0\nWoke up on the right side of the bed\nWhat's up with this Prince song inside my head?\nHands up if you're down to get down tonight\nCause it's always a good time.\n\xa0\nSlept in all my clothes like I didn't care\nHopped into a cab, take me anywhere\nI'm in if you're down to get down tonight\nCause it's always a good time\n\xa0\nGood morning and good night\nI'll wake up at twilight\nIt's gonna be alright\nWe don't even have to try, it's always a good time\n\xa0\nWoah-oh-oh-oh Woah-oh-oh-oh\nIt's always a good time\nWoah-oh-oh-oh\xa0\nWe don't even have to try, it's always a good time\n\xa0\nFreaked out, dropped my phone in the pool again\nChecked out of my room hit the ATM\nLet's hang out if you're down to get down tonight\nCause it's always a good time\n\xa0\nGood morning and good night\nI'll wake up at twilight\nIt's gonna be alright\xa0\nWe don't even have to try, it's always a good time\n\xa0\nWoah-oh-oh-oh Woah-oh-oh-oh\nIt's always a good time\nWoah-oh-oh-oh\xa0\nWe don't even have to try, it's always a good time\n\xa0\nWoah-oh-oh-oh Woah-oh-oh-oh\nIt's always a good time\nWoah-oh-oh-oh\xa0\nWe don't even have to try, it's always a good time\n\xa0\nDoesn't matter when\nIt's always a good time then\nDoesn't matter where\nIt's always a good time there\n\xa0\nDoesn't matter when\nIt's always a good time then\nIt's always a good time\n\xa0\nWoah-oh-oh-oh Woah-oh-oh-oh\nIt's always a good time\nWoah-oh-oh-oh\xa0\nWe don't even have to try, it's always a good time\n\xa0\nWoah-oh-oh-oh Woah-oh-oh-oh\nIt's always a good time\nWoah-oh-oh-oh\nWe don't even have to try, it's always a good time", 'article_writer': 'Adam Young', 'title': 'Owl City - Good Time.flac', 'id': 9420, 'music_writer': 'Adam Young', 'url_key': '提取密码：gamw'}, {'url': 'http://pan.baidu.com/s/1qheiE', 'content': "Did I disappoint you or let you down?\nShould I be feeling guilty or let the judges frown?\n'Cause I saw the end before we'd begun,\nYes I saw you were blinded and I knew I had won.\nSo I took what's mine by eternal right.\nTook your soul out into the night.\nIt may be over but it won't stop there,\nI am here for you if you'd only care.\nYou touched my heart you touched my soul.\nYou changed my life and all my goals.\nAnd love is blind and that I knew when,\nMy heart was blinded by you.\nI've kissed your lips and held your head.\nShared your dreams and shared your bed.\nI know you well, I know your smell.\nI've been addicted to you.\n\xa0\nGoodbye my lover.\nGoodbye my friend.\nYou have been the one.\nYou have been the one for me.\n\xa0\nI am a dreamer but when I wake,\nYou can't break my spirit - it's my dreams you take.\nAnd as you move on, remember me,\nRemember us and all we used to be.\n\xa0\nI've seen you cry, I've seen you smile.\nI've watched you sleeping for a while.\nI'd be the father of your child.\nI'd spend a lifetime with you.\nI know your fears and you know mine.\nWe've had our doubts but now we're fine,\nAnd I love you, I swear that's true.\nI cannot live without you.\n\xa0\nGoodbye my lover.\nGoodbye my friend.\nYou have been the one.\nYou have been the one for me.\n\xa0\nAnd I still hold your hand in mine.\nIn mine when I'm asleep.\nAnd I will bear my soul in time,\nWhen I'm kneeling at your feet.\nGoodbye my lover.\nGoodbye my friend.\nYou have been the one.\nYou have been the one for me.\n\xa0\nI'm so hollow, baby, I'm so hollow.\nI'm so, I'm so, I'm so hollow.", 'article_writer': 'James Blunt', 'title': 'James Blunt - Goodbye My Lover.ape', 'id': 9661, 'music_writer': 'James Blunt', 'url_key': '提取密码：epun'}, {'url': 'http://pan.baidu.com/s/1gfxyW0r', 'content': 'Let´s go\nDon´t wantcha for the weekend´\nDon´t wantcha for a night\nI´m only interested if I can have you for life´ yeah\nUh´ I know I sound serious and baby I am\nYou´re a fine piece of real estate´\nAnd I´m gonna get me some land\nOh´ yeah\nSo´ don´t try to run honey´ love can be fun\nThere´s no need to be alone when you find that someone\n(I´m gonna getcha)\nI´m gonna getcha while I gotcha in sight\n(I´m gonna getcha)\nI´m gonna getcha if it takes all night\n(Yeah´ you can betcha)\nYou can betcha by the time I say “go´“ you´ll never say “no“\n(I´m gonna getcha)\nI´m gonna getcha´ it´s a matter of fact\n(I´m gonna getcha)\nI´m gonna getcha´ don´tcha worry ´bout that\n(Yeah´ you can betcha)\nYou can bet your bottom dollar´\nIn time you´re gonna be mine\nJust like I should - I´ll getcha good\nYeah´ uh´ uh\nI´ve already planned it\nHere´s how it´s gonna be\nI´m gonna love you and\nYou´re gonna fall in love with me\nYeah´ yeah\nSo´ don´t try to run honey´ love can be fun\nThere´s no need to be alone when you find that someone\n(I´m gonna getcha)\nI´m gonna getcha while I gotcha in sight\n(I´m gonna getcha)\nI´m gonna getcha if it takes all night\n(Yeah´ you can betcha)\nYou can betcha by the time I say “go´“ you´ll never say “no“\n(I´m gonna getcha)\nI´m gonna getcha´ it´s a matter of fact\n(I´m gonna getcha)\nI´m gonna getcha´ don´tcha worry ´bout that\n(Yeah´ you can betcha)\nYou can bet your bottom dollar´\nIn time you´re gonna be mine\nJust like I should - I´ll getcha good\nYeah´ I´m gonna getcha baby\nI´m gonna knock on wood\nI´m gonna getcha somehow honey yeah´\nI´m gonna make it good\nYeah´ yeah´ yeah´ yeah\nSo´ don´t try to run honey´ love can be fun\nThere´s no need to be alone when you find that someone\n(I´m gonna getcha)\n(I´m gonna getcha)\n[I´m gonna getcha´ don´tcha worry ´bout that\n(Yeah´ you can betcha)\nYou can bet your bottom dollar´\nIn time you´re gonna be mine\nOh´ I´m gonna getcha´\nI´m gonna getcha real good\nYeah´ you can betcha´ oh´ I´m gonna getcha\n(I´m gonna getcha) just like I should´\nI´ll getcha good\nOh´ I´m gonna getcha good', 'article_writer': 'Shania Twain & R.J.Lange', 'title': "Shania Twain - I'm Gonna Getcha Good.ape", 'id': 9872, 'music_writer': 'Shania Twain & R.J.Lange', 'url_key': '提取密码：l5uh'}, {'url': 'http://pan.baidu.com/s/1eS0OS5k', 'content': "If i could take this moment forever\nTurn the pages of my mind\nTo another place and time\nWe would never say goodbye\nIf i could find the words i would speak them\nThen i wouldn't be tongue tied\nWill i look them to your eyes\nWe would never say goodbye\nIf i could stop the moon ever arising\nDay would not become the night\nWould't feel this cold inside\nAnd we'd never say goodbye\nI wish that our dreams were frozen\nThen our hearts would not be broken\nWhen we let each other go\nIf i could steal this moment forever\nPaint a picture perfect smile\nSo our story stayed alive\nWe would never say goodbye\nAhh", 'article_writer': 'Maurice Ravel', 'title': 'Hayley Westenra - Never Say Goodbye.flac', 'id': 9886, 'music_writer': 'Maurice Ravel', 'url_key': '提取密码：9q3f'}, {'url': 'http://pan.baidu.com/share/link?shareid=954801625&uk=1585951540&fid=21605490645717', 'content': "Birds flying high\nYou know how I feel\nSun in the sky\nYou know how I feel\nReeds drifting on by\nYou know how I feel\nIt's a new dawn\nIt's a new day\nIt's a new life\nFor me\nAnd I'm feeling good\nFish in the sea\nYou know how I feel\nRiver running free\nYou know how I feel\nBlossom in the tree\nYou know how I feel\nIt's a new dawn\nIt's a new day\nIt's a new life\nFor me\nAnd I'm feeling good\nDragonfly out in the sun you know what I mean\nDon't you know\nButterflies all havin' fun you know what I mean\nSleep in peace when the day is done\nAnd this old world is a new world\nAnd a bold world\nFor me\nStars when you shine\nYou know how I feel\nScent of the pine\nYou know how I feel\nYeah freedom is mine\nI don't know how I feel\nIt's a new dawn\nIt's a new day\nIt's a new life\nFor me\nFor me\nFor me\nAnd I'm feeling feeling feeling\nAnd feeling\n\xa0", 'article_writer': 'Anthony Newley Leslie Bricuss', 'title': '华晨宇 - feeling good.flac', 'id': 10129, 'music_writer': 'Anthony Newley Leslie Bricuss', 'url_key': '提取密码：无'}, {'url': 'http://pan.baidu.com/s/1pLKlz7d', 'content': '记得那天晚上你对我说\n想到海边去走走\n看着你的表情我知道你\n心里头有话想说\n看着波浪匆匆来了又走\n不变的是海的辽阔\n或许爱情也是来了又走\n不变的会是什么\n你说爱对你终究太沉重\n心中太多牵绊让你无法洒脱\n不能继续爱我\n不想一拖再拖\n不愿让我空等候\n你说你最痛苦的事情\n就是得亲口说出或许该分手\n而你最无奈的事情 是解脱\n你说你最感动的事情\n是看我微笑的说一切我都懂\n而你最幸福的事情就是爱过我\n看着白云缓缓来了又走\n不变的是无尽夜空\n虽然爱情也是来了又走\n希望不变的是你我\n你说你最痛苦的事情\n就是得亲口说出或许该分手\n而你最无奈的事情 是解脱\n你说你最感动的事情\n是看我微笑的说一切我都懂\n而你最幸福的事情就是爱过我\n你说你最痛苦的事情\n就是得亲口说出或许该分手\n而你最无奈的事情 是解脱\n你说你最感动的事情', 'article_writer': '深白色', 'title': '林志炫 - The Night We Said Goodbye.ape', 'id': 10612, 'music_writer': '深白色', 'url_key': '提取密码：无'}, {'url': 'http://pan.baidu.com/s/1qYKRcra', 'content': '为什么你想要伤害一颗完美的善良的心\n为什么你想要把我们的爱带走并且把它撕得支离破碎\n为什么你要在我们的爱上留下第一道疤痕\n为什么你想要伤害一颗完美的善良的心也许我应该早看到一些迹象\n应该早读懂你在墙上写下的诀言\n应该早点从你的眼神中意识到你我之间的距离\n那就是我不是你爱的人\n无论你说什么，我都不会相信你会舍我而去\n我想不通\n为什么你要伤害一颗完美的善良的心\n为什么你想要把我们的爱带走并且把它撕得支离破碎\n为什么你要在我们的爱上留下第一道疤痕\n为什么你想要打破完美的善良的心\n这再也不是完整的\n我该如何挽回呢\n为什么你想要伤害一颗完美的善良的心\n为什么你想要把我们的爱带走并且把它撕得支离破碎\n为什么你要在我们的爱上留下第一道疤痕\n为什么你想要伤害一颗完美的善良的心', 'article_writer': '泰勒·斯威夫特', 'title': '泰勒 - A Perfectly Good Heart.flac', 'id': 10836, 'music_writer': '泰勒·斯威夫特', 'url_key': '提取密码：无'}, '...(remaining elements truncated)...']>[26/Jun/2018 23:52:16] "POST /search/music/ HTTP/1.1" 200 32461
+[26/Jun/2018 23:52:16] "POST /search/music/ HTTP/1.1" 200 15324132
+[26/Jun/2018 23:52:40] "GET /search/music/ HTTP/1.1" 200 2130
+[26/Jun/2018 23:52:41] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[26/Jun/2018 23:52:41] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+Not Found: /favicon.ico
+[26/Jun/2018 23:52:41] "GET /favicon.ico HTTP/1.1" 404 1976
+
+<QuerySet [{'url': 'http://pan.baidu.com/s/1bn4EdlH', 'content': "大家对其最熟悉的California Dreamin，电影《阿甘正传》（Forrest Gump）中，阿甘在越南的雨中给Jenny写信时，响起的背景音乐就是这首加州梦想。在王家卫导演的电影《重庆森林》中王菲也摇头晃脑地哼唱着这美妙的旋律。\n这首歌来自The Mamas & the Papas。可能不是有很多人听说过这个组合，不过看过《重庆森林》或者是《阿甘正传》的话就应该记得《California Dreamin'》这首歌曲。这个声音就是来自于The Mamas & the Papas。通俗的曲式，唯美的人声，这是the Mamas & the Papas乐队给你的一个率意的黎明，在那片走不出的重庆森林里，有一个姑娘也曾经和我们一起为梦中的加洲手舞足蹈。", 'article_writer': 'John Phillips', 'title': 'The Mamas And The Papas - California Dreamin.ape', 'id': 3, 'music_writer': 'Michelle Phillips', 'url_key': '提取密码：m2dt'}, {'url': 'http://pan.baidu.com/s/1hq9nxZ2', 'content': 'Super star是台湾艺人团体S.H.E于2003年8月推出的第五张音乐专辑。此专辑特别邀请了德国SweetBox、瑞典Ace of Base王牌合唱团、英国Bananarama的超级制作人GEO，为她们跨国量声订作出SUPER STAR，这首歌是S.H.E从未尝试过的摇滚曲风，推出后大受欢迎。专辑同名主打歌曲也为《super star》。', 'article_writer': '施人诚', 'title': 'SHE - Super Star.ape', 'id': 41, 'music_writer': 'Jade、Geoman', 'url_key': '提取密码：xmn1'}, {'url': 'http://pan.baidu.com/s/1qW8re2o', 'content': '专辑的每首歌背后都又有着有趣的故事，每一首歌都凝聚着唱片公司的诚意和S.H.E的努力，整张专辑听下来让没有了生气的耳朵顿生欣喜而难以割舍。用一位歌迷在BBS上留言的话说：大牌歌手时刻用音乐说话。因为S.H.E，我们更爱音乐；因为音乐，我们更爱这个世界。', 'article_writer': '施人诚', 'title': 'SHE - 不想长大.ape', 'id': 168, 'music_writer': '左安安', 'url_key': '提取密码：08ac'}, {'url': 'http://pan.baidu.com/s/1gdj6X95', 'content': '此外，还有首次合作的马毓芬老师，由於马毓芬老师合声功力相当深厚，因此对S.H.E的合声特别要求，如第一主打歌「美丽新世界」里三人合声分部音域差异相当大，由以HEBE的音最高，让HEBE不断嘲弄自己说「我好像每张专辑都要不断的向高音挑战」，不过听到成品后，大家发现「电子味十足」的「美丽新世界」整首歌听来特别的甜，制作人直说这是首甜到心里的『甜蜜电音』，与一般的摇头电音相当的不同。', 'article_writer': '李天龙、颜玺轩', 'title': 'SHE - 美丽新世界.ape', 'id': 231, 'music_writer': '李天龙', 'url_key': '提取密码：29w5'}, {'url': 'http://pan.baidu.com/s/1hq1fUni', 'content': '《Take Me to Your Heart》 是丹麦4人男子组合Michael Learns To Rock的第6张大碟，这张大碟中你可以欣赏到10首旋律优美，琅琅上口的，充满 M.L.T.R.抒情的作品，从这张碟子你完全可以感受到他们对音乐的执着和诚意。特别值得推荐的是主打歌曲《Take Me to Your Heart》，大家听了肯定会感到十分亲切舒服，因为它就是香港天王张学友《吻别》的英文版， M.L.T.R.的版本少了一份哀怨，多了几分情意。', 'article_writer': 'Jascha Richter', 'title': 'Michael Learns To Rock - Take Me To Your Heart.ape', 'id': 237, 'music_writer': '殷文琦', 'url_key': '提取密码：mh0p'}, {'url': 'http://pan.baidu.com/s/1eQxgk6I', 'content': '《一眼万年》这首歌是电视剧《天外飞仙》的主题曲，由SHE演绎。当初SHE是第一次演绎这种曲风，所以一改往日嘻嘻哈哈的本性，认真起来，拍MV也是，公司领导看到后，说：“早知道这样，就早点让她们唱这种歌了，以前太难管了！”当初为了找这首歌，公司花了很长的时间，听了很多 Demo 都觉得不适合《天外飞仙》，后来找到林俊杰为 S.H.E 所写的曲，大家一听后觉得简直就是戏的主题曲，再加上请来姚若龙填词，将戏中的无限情感化为文字。', 'article_writer': '姚若龙', 'title': 'SHE - 一眼万年.ape', 'id': 487, 'music_writer': '林俊杰', 'url_key': '提取密码：rp8m'}, {'url': 'http://pan.baidu.com/s/1jGhzhwq', 'content': '除了低音贝斯演奏家出版的个人专辑，很少有歌曲是以贝斯做为主奏乐器。但警察合唱团的THE POLICE\xa0Every breath you take 这首歌就是以贝斯支撑起整首歌曲，而且大受欢迎，在一九八三年的告示牌排行榜上，它曾经蝉连八周冠军，并成为年终个地方官方的规定发给排行的总冠军。', 'article_writer': 'Sting', 'title': 'The Police - Every Breath You Take.ape', 'id': 518, 'music_writer': 'Sting', 'url_key': '提取密码：32i9'}, {'url': 'http://pan.baidu.com/s/1bn6FJbD', 'content': '《月桂女神》是中国古典曲风加上西洋声乐，歌曲描述著希腊神话中月桂女神达芙妮与太阳神阿波罗的爱情故事，歌曲中S.H.E 再度表现完美合声，全歌浩瀚辽阔，视频利用古希腊人物做背景拍摄，仿佛置身古希腊，亲临神话现场一般。', 'article_writer': '方文山', 'title': 'SHE - 月桂女神.ape', 'id': 524, 'music_writer': '李天龙', 'url_key': '提取密码：az2t'}, {'url': 'http://pan.baidu.com/s/1gd5RMrL', 'content': '《Hey Jude》是披头士乐队成员保罗·麦卡特尼创作的一首歌，于1968年发行。原本计划收录进同名专辑《The Beatles》，後来作为单曲发行，并迅速成为了当年的冠军单曲。《Hey Jude》原曲长7分11秒。这首歌的原名是《Hey Julian》，后来改为《Hey Jules》，最终变成《Hey Jude》。 虽然它比一般的单曲长了两倍，但还是广受欢迎，并且很快就成了英国和荷兰的排行榜冠军。短短两个星期后就出人意料地售出了两百万张，并且在美国的美国告示牌Billboard 榜首位置上停留了9个星期。《Hey Jude》在全球的销量超过了八百万张。', 'article_writer': 'John Lennon/Paul James Mccartney', 'title': 'The Beatles - Hey Jude.ape', 'id': 593, 'music_writer': 'John Lennon/Paul James Mccartney', 'url_key': '提取密码：ct9h'}, {'url': 'http://pan.baidu.com/s/1xUuB0', 'content': '帅气摇滚曲风的《痛快》是由左安安作曲、施人诚作词，SWEETBOX编曲、制作，歌词中让S.H.E唱出新世代的《痛快》主张， S.H.E表示这首痛快相当摇滚有劲，不自觉得就会跟著HIGH、跟著唱，相信又是歌迷跟著大合唱的歌曲。', 'article_writer': '施人诚', 'title': 'SHE - 痛快.ape', 'id': 615, 'music_writer': '左安安', 'url_key': '提取密码：4l5g'}, {'url': 'http://pan.baidu.com/s/1c0nbaKS', 'content': '《半糖主义》爱情何必要像黏皮糖，E世代女孩爱情新主张。S.H.E继「REMEMBER」最劲痛快舞曲。为翻唱瑞典流行组合Play的歌曲《Cinderella》', 'article_writer': '徐世珍', 'title': 'SHE - 半糖主义.ape', 'id': 645, 'music_writer': 'U.Robbinn，K.Savigar', 'url_key': '提取密码：2umr'}, {'url': 'http://pan.baidu.com/s/1o6hWV3c', 'content': 'S.H.E在2001年出道时发行的第一张专辑《女生宿舍》的主打歌，翻唱自Destiny‘s Child的《Brown Eyes》 《恋人未满》的灵感主要是来自日文《友达以上，恋人未满》，意思是说两人的关系不只是朋友但还不到情人的尴尬阶段，歌词细腻传递女生在此尴尬期对爱情的憧憬与期待。制作人希望她们要唱出属于自己的感情、属于自己的味道，不刻意去要求技巧，让他们忘记原曲的困难度，让《恋人未满》是属于S.H.E的味道的。', 'article_writer': '施人诚', 'title': 'SHE - 恋人未满.ape', 'id': 688, 'music_writer': 'B.K./W.A.', 'url_key': '提取密码：uwet'}, {'url': 'http://pan.baidu.com/s/1dDteDot', 'content': '《他还是不懂》收录在S.H.E《奇幻旅程》中，像歌词唱的那样，他还不懂，离开是想要被挽留。让人在听歌的同时想到分手的痛。', 'article_writer': '徐世珍', 'title': 'SHE - 他还是不懂.ape', 'id': 691, 'music_writer': '王治平', 'url_key': '提取密码：19cb'}, {'url': 'http://pan.baidu.com/s/1mgKAQ2O', 'content': '从70年代到80年代，在日益喧嚣的欧美流行乐坛上，警察乐队以其讲究旋律的慢摇滚风格，异军突起, 受到全球乐迷们的拥戴。而作为这支著名摇滚乐队的首脑人物，斯汀(Sting)则被誉为警察的灵魂。', 'article_writer': 'Sting', 'title': 'The Police - The Police.ape', 'id': 697, 'music_writer': 'Sting', 'url_key': '提取密码：tag6'}, {'url': 'http://pan.baidu.com/s/1bnb7Lkb', 'content': 'S.H.E表示其实自己的也不是那种情窦初开的年纪，但因为这歌相当可爱，因此在配唱这首RING RING RING时，就把想象自己是个刚情窦初开期待又怕受伤害、用手机谈恋爱的女孩，还有加上一些口白，整首歌也因此听来相当可爱俏皮！', 'article_writer': '张家玮', 'title': 'SHE - Ring Ring Ring.ape', 'id': 722, 'music_writer': '张博彦', 'url_key': '提取密码：mr3c'}, {'url': 'http://pan.baidu.com/s/1kTJqOQV', 'content': '《我爱你》取材自 MV 导演马宜中父执辈的真实故事，故事中的主角在 40 多年前都是北大的学生，后来因为战乱的关系女生逃来了台湾，到了适婚年龄在家庭的压力之下结了婚、也当了祖母。但男生却一直坚守诺言，一辈子不婚，待在学校教书等候女主角，深怕女生会找不到他。一对恋人在分隔 40 年后重逢，女主角全家都支持她回去，包括女主角的老公也支持她甚至卖掉一栋房子让他们这对苦命鸳鸯相聚…', 'article_writer': '姚若龙', 'title': 'SHE - 我爱你.ape', 'id': 746, 'music_writer': 'Geoman/Villalon from Sweetbox ', 'url_key': '提取密码：t1y5'}, {'url': 'http://pan.baidu.com/s/1o6v4fvO', 'content': 'Good night\n东京 是否还在飘雨\n台北好天气 我好想念你\n星光闪耀 今生能遇见你真好\n喔 I Believe\n话不说 你也知道\n沉闷的世界因为有了你\n一切都改变\n就连隔夜的一杯廉价咖啡\n都变得香甜\n不害怕 不担心\n我和幸福有约定\n就算是寂寞也不理\n因为思念让爱零距离\n为了你 我愿意\n多用心照顾自己\n也请你千万别忘记\n我们曾和幸福有约定\n\xa0', 'article_writer': '潘协庆', 'title': 'SHE - 我和幸福有约定.ape', 'id': 773, 'music_writer': '潘协庆', 'url_key': '提取密码：o26r'}, {'url': 'http://pan.baidu.com/s/1o6x5YWi', 'content': '《I.O.I.O》爱情要甜蜜就应该要时时贴心 S.H.E全新俏皮复古舞曲逗趣呈现。翻唱自爱尔兰三人组合BeeGees《I.O.I.O》', 'article_writer': '韩吉', 'title': 'SHE - I.O.I.O.ape', 'id': 791, 'music_writer': 'Gibb M/Gibb B.A', 'url_key': '提取密码：mlbj'}, {'url': 'http://pan.baidu.com/s/1gdsuyUf', 'content': 'SHE‘S GONE这首悲伤的爱情歌曲，在乐队的演义下显得充满了灵性，整首歌用钢琴托底，以吉他点缀加上主唱撕破心一样的高音，使得它成为首支可以要一个人听后流泪的歌曲，所以向来以全世界最悲情民族之称的韩国将此歌买下作为他们一部电视剧的插曲。', 'article_writer': 'Steelheart', 'title': "Steelheart - She's Gone.ape", 'id': 910, 'music_writer': 'Micheal Matijevic', 'url_key': '提取密码：h85g'}, {'url': 'http://pan.baidu.com/s/1eQh7lZG', 'content': '一次在一个有创意的咖啡馆小坐,一首熟稔的曲子一下子抓住了我的心,那不是席琳•迪翁《爱的力量》吗?尽管乐声很轻,,但这首曲子特有的张力和穿透力仍然使人觉得荡气回肠,余音绕梁……', 'article_writer': '大卫·福斯特', 'title': 'Celine Dion - 爱的力量(The Power Of Love).ape', 'id': 993, 'music_writer': '艾尔伯特·阿蒙德', 'url_key': '提取密码：vk1c'}, '...(remaining elements truncated)...']>[26/Jun/2018 23:52:45] "POST /search/music/ HTTP/1.1" 200 378530
+[26/Jun/2018 23:53:40] "GET /search/music HTTP/1.1" 301 0
+
+[27/Jun/2018 00:11:01] "GET /search/music/ HTTP/1.1" 200 2125
+Not Found: /favicon.ico
+[27/Jun/2018 00:11:01] "GET /favicon.ico HTTP/1.1" 404 1976
+[27/Jun/2018 00:11:06] "POST /search/music/ HTTP/1.1" 200 7485
+[27/Jun/2018 00:11:08] "GET /search/music/ HTTP/1.0" 200 2125
+[27/Jun/2018 00:11:17] "GET /search/music/ HTTP/1.1" 200 2125
+Not Found: /favicon.ico
+[27/Jun/2018 00:11:17] "GET /favicon.ico HTTP/1.1" 404 1976
+[27/Jun/2018 00:11:22] "POST /search/music/ HTTP/1.1" 200 14198
+[27/Jun/2018 00:11:23] "GET /search/music/ HTTP/1.0" 200 2125
+[27/Jun/2018 00:12:13] "GET /search/music/ HTTP/1.1" 200 2125
+Not Found: /favicon.ico
+[27/Jun/2018 00:12:13] "GET /favicon.ico HTTP/1.1" 404 1976
+[27/Jun/2018 00:12:35] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+Not Found: /favicon.ico
+[27/Jun/2018 00:12:35] "GET /favicon.ico HTTP/1.1" 404 1976
+[27/Jun/2018 00:12:41] "POST /search/music/?from=singlemessage HTTP/1.1" 200 104056
+[27/Jun/2018 00:12:46] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[27/Jun/2018 00:12:47] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[27/Jun/2018 00:12:56] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[27/Jun/2018 00:12:56] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[27/Jun/2018 00:12:56] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+Not Found: /favicon.ico
+[27/Jun/2018 00:12:56] "GET /favicon.ico HTTP/1.1" 404 1976
+[27/Jun/2018 00:13:01] "POST /search/music/?from=singlemessage HTTP/1.1" 200 104056
+[27/Jun/2018 00:13:02] "GET /search/music/?from=singlemessage HTTP/1.0" 200 2125
+[27/Jun/2018 00:13:35] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[27/Jun/2018 00:13:35] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+Performing system checks...
+
+System check identified no issues (0 silenced).
+June 27, 2018 - 00:10:07
+Django version 2.0.1, using settings 'Search.settings'
+Starting development server at http://0.0.0.0:8899/
+Quit the server with CONTROL-C.
+[27/Jun/2018 00:16:42] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[27/Jun/2018 00:16:50] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[27/Jun/2018 00:17:02] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[27/Jun/2018 00:17:02] "GET /favicon.ico HTTP/1.1" 404 85
+[27/Jun/2018 00:17:04] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[27/Jun/2018 00:17:07] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[27/Jun/2018 00:17:18] "GET /search/mssa HTTP/1.1" 404 85
+[27/Jun/2018 00:27:36] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[27/Jun/2018 00:27:36] "GET /favicon.ico HTTP/1.1" 404 85
+[27/Jun/2018 00:27:44] "POST /search/music/?from=singlemessage HTTP/1.1" 200 104056
+[27/Jun/2018 00:27:58] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[27/Jun/2018 00:27:58] "GET /favicon.ico HTTP/1.1" 404 85
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[27/Jun/2018 00:33:29] "GET /search/music/?from=singlemessage HTTP/1.0" 200 2125
+[27/Jun/2018 00:36:05] "GET /search/music/?from=timeline HTTP/1.1" 200 2125
+[27/Jun/2018 00:36:05] "GET /favicon.ico HTTP/1.1" 404 85
+[27/Jun/2018 00:36:12] "POST /search/music/?from=timeline HTTP/1.1" 200 104056
+[27/Jun/2018 00:36:13] "GET /search/music/?from=timeline HTTP/1.1" 200 2125
+[27/Jun/2018 00:36:13] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[27/Jun/2018 00:36:14] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[27/Jun/2018 00:36:14] "GET /favicon.ico HTTP/1.1" 404 85
+[27/Jun/2018 00:36:15] "POST /search/music/?from=timeline HTTP/1.1" 200 15324127
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[27/Jun/2018 00:36:15] "POST /search/music/?from=timeline HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[27/Jun/2018 00:37:13] "GET /search/music/?from=timeline HTTP/1.1" 200 2125
+[27/Jun/2018 00:37:13] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[27/Jun/2018 00:38:00] "GET /search/music/?from=timeline HTTP/1.1" 200 2125
+[27/Jun/2018 00:38:00] "GET /favicon.ico HTTP/1.1" 404 85
+[27/Jun/2018 00:38:31] "GET /search/music/?from=timeline HTTP/1.1" 200 2125
+[27/Jun/2018 00:38:31] "GET /favicon.ico HTTP/1.1" 404 85
+[27/Jun/2018 00:38:35] "POST /search/music/?from=timeline HTTP/1.1" 200 104056
+[27/Jun/2018 00:39:54] "GET /search/music/?from=groupmessage HTTP/1.1" 200 2125
+[27/Jun/2018 00:39:54] "GET /favicon.ico HTTP/1.1" 404 85
+[27/Jun/2018 00:39:58] "POST /search/music/?from=groupmessage HTTP/1.1" 200 15324127
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[27/Jun/2018 00:39:58] "POST /search/music/?from=groupmessage HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[27/Jun/2018 00:40:02] "POST /search/music/?from=groupmessage HTTP/1.1" 200 15324127
+[27/Jun/2018 00:40:02] "GET /search/music/?from=groupmessage HTTP/1.0" 200 2125
+[27/Jun/2018 00:40:26] "GET /search/music/?from=groupmessage HTTP/1.1" 200 2125
+[27/Jun/2018 00:40:26] "GET /favicon.ico HTTP/1.1" 404 85
+[27/Jun/2018 00:58:38] "GET /search/music/?from=groupmessage&isappinstalled=0 HTTP/1.1" 200 2125
+[27/Jun/2018 00:58:39] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[27/Jun/2018 00:58:39] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[27/Jun/2018 11:51:51] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[27/Jun/2018 11:51:52] "GET /favicon.ico HTTP/1.1" 404 85
+[27/Jun/2018 11:52:44] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[27/Jun/2018 11:52:44] "GET /favicon.ico HTTP/1.1" 404 85
+[27/Jun/2018 11:52:50] "POST /search/music/?from=singlemessage HTTP/1.1" 200 104056
+[27/Jun/2018 11:53:19] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[27/Jun/2018 11:53:19] "GET /favicon.ico HTTP/1.1" 404 85
+[27/Jun/2018 11:59:38] "GET /search/music/?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2125
+[27/Jun/2018 11:59:38] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[27/Jun/2018 11:59:38] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[27/Jun/2018 11:59:46] "GET /search/music/?from=singlemessage&isappinstalled=0 HTTP/1.0" 200 2125
+[27/Jun/2018 11:59:46] "POST /search/music/?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 3701
+[27/Jun/2018 12:00:47] "GET /search/music/?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2125
+[27/Jun/2018 12:00:47] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:26:52] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[28/Jun/2018 11:26:52] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:26:58] "GET /search/music/?from=singlemessage HTTP/1.0" 200 2125
+[28/Jun/2018 11:27:58] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[28/Jun/2018 11:28:05] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:30:17] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:30:17] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:30:17] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:30:18] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:30:38] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:30:38] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:30:44] "POST /search/music/ HTTP/1.1" 200 104056
+[28/Jun/2018 11:31:01] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 11:31:31] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:31:31] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:31:31] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:31:50] "POST /search/music/ HTTP/1.1" 200 123206
+[28/Jun/2018 11:31:50] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 11:32:12] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:32:12] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:32:12] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:32:26] "POST /search/music/ HTTP/1.1" 200 12621
+[28/Jun/2018 11:32:34] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:32:34] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:32:34] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:32:34] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:32:34] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:32:57] "POST /search/music/ HTTP/1.1" 200 15324127
+[28/Jun/2018 11:33:39] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:33:39] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:33:39] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:33:39] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:34:05] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:34:05] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:34:05] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:34:05] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:34:06] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:34:13] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 11:34:13] "POST /search/music/ HTTP/1.1" 200 123206
+[28/Jun/2018 11:34:16] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:34:16] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:34:33] "POST /search/music/ HTTP/1.1" 200 181449
+[28/Jun/2018 11:34:43] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:34:44] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 11:35:02] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:35:02] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:35:02] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:35:03] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:35:09] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:35:09] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:35:09] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:35:10] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:35:17] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 11:35:22] "POST /search/music/ HTTP/1.1" 200 4443
+[28/Jun/2018 11:35:28] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:35:30] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 11:35:30] "POST /search/music/ HTTP/1.1" 200 5928
+[28/Jun/2018 11:35:33] "POST /search/music/ HTTP/1.1" 200 15324127
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[28/Jun/2018 11:35:33] "POST /search/music/ HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[28/Jun/2018 11:35:46] "POST /search/music/ HTTP/1.1" 200 15324127
+[28/Jun/2018 11:35:49] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:35:51] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 11:36:39] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:36:39] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:36:39] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:37:02] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 11:38:48] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:38:48] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:38:48] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:39:44] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:39:56] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 11:39:56] "POST /search/music/ HTTP/1.1" 200 70752
+[28/Jun/2018 11:41:17] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:41:18] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:41:18] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:41:47] "POST /search/music/ HTTP/1.1" 200 54937
+[28/Jun/2018 11:42:03] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:42:03] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:42:03] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:42:03] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:42:14] "POST /search/music/ HTTP/1.1" 200 80086
+[28/Jun/2018 11:42:32] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 11:42:39] "POST /search/music/ HTTP/1.1" 200 228790
+[28/Jun/2018 11:42:49] "POST /search/music/ HTTP/1.1" 200 3705
+[28/Jun/2018 11:43:00] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 11:43:55] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:44:04] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 11:44:04] "POST /search/music/ HTTP/1.1" 200 54937
+[28/Jun/2018 11:44:39] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:44:39] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:44:39] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:45:33] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:45:33] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:45:33] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:45:33] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:47:00] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:47:00] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:47:00] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:47:00] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:47:05] "POST /search/music/ HTTP/1.1" 200 2956
+[28/Jun/2018 11:47:07] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:47:08] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 11:47:12] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:47:12] "GET /favicon.ico HTTP/1.1" 404 85
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[28/Jun/2018 11:49:31] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:49:31] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:49:38] "POST /search/music/ HTTP/1.1" 200 181449
+[28/Jun/2018 11:50:01] "GET /search/music/ HTTP/1.1" 200 2125
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[28/Jun/2018 11:50:30] "GET /search/music HTTP/1.1" 301 0
+[28/Jun/2018 11:50:56] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:50:56] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:50:56] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:50:57] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:51:09] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 11:51:11] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:51:11] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:51:11] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:51:12] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:51:13] "POST /search/music/ HTTP/1.1" 200 7475
+[28/Jun/2018 11:51:20] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:51:20] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:51:20] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:51:21] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:51:25] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:51:26] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 11:51:26] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:51:26] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:51:57] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:51:57] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:51:57] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:51:58] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:52:34] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:52:39] "POST /search/music/ HTTP/1.1" 200 224302
+[28/Jun/2018 11:53:01] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:53:04] "POST /search/music/ HTTP/1.1" 200 224302
+[28/Jun/2018 11:53:55] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:53:58] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 11:54:09] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 11:54:10] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 11:54:16] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 11:54:16] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 11:55:51] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:55:51] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:55:51] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:55:52] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 11:55:57] "POST /search/music/ HTTP/1.1" 200 161789
+[28/Jun/2018 11:56:49] "GET /search/music HTTP/1.1" 301 0
+[28/Jun/2018 11:58:42] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 11:58:42] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 11:58:42] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 11:58:48] "GET /search/music/ HTTP/1.1" 200 2125
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[28/Jun/2018 12:05:42] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:05:42] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 12:05:42] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 12:05:42] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 12:08:01] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:08:01] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 12:08:01] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 12:08:01] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 12:08:06] "POST /search/music/ HTTP/1.1" 200 161789
+[28/Jun/2018 12:08:09] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:08:09] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 12:08:19] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 12:08:19] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:08:20] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 12:08:20] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 12:08:20] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 12:08:21] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 12:08:27] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:08:31] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:08:31] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 12:08:42] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 12:08:48] "POST /search/music/ HTTP/1.1" 200 387248
+[28/Jun/2018 12:09:04] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:12:27] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:12:27] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 12:12:35] "POST /search/music/ HTTP/1.1" 200 343131
+[28/Jun/2018 12:12:47] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:12:48] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 12:12:51] "POST /search/music/ HTTP/1.1" 200 343131
+[28/Jun/2018 12:13:10] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:17:45] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:17:45] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 12:17:45] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 12:17:46] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 12:17:51] "POST /search/music/ HTTP/1.1" 200 104056
+[28/Jun/2018 12:18:27] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:18:29] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 12:19:02] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:19:02] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 12:19:08] "POST /search/music/ HTTP/1.1" 200 46927
+[28/Jun/2018 12:19:24] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:20:01] "GET /search/music HTTP/1.1" 301 0
+[28/Jun/2018 12:23:23] "GET /search/music HTTP/1.1" 301 0
+[28/Jun/2018 12:26:58] "GET /search/music HTTP/1.1" 301 0
+[28/Jun/2018 12:47:36] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 12:47:36] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 12:47:36] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 12:47:37] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 12:47:50] "POST /search/music/ HTTP/1.1" 200 17296
+[28/Jun/2018 12:48:00] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 13:09:38] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 13:09:38] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 13:09:39] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 13:09:39] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 13:15:36] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 13:15:36] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 13:15:36] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 13:41:26] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 13:41:26] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 13:41:31] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 13:41:37] "POST /search/music/ HTTP/1.1" 200 2956
+[28/Jun/2018 13:41:41] "POST /search/music/ HTTP/1.1" 200 15324127
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[28/Jun/2018 13:41:41] "POST /search/music/ HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[28/Jun/2018 13:41:43] "POST /search/music/ HTTP/1.1" 200 15324127
+[28/Jun/2018 13:41:52] "POST /search/music/ HTTP/1.1" 200 1481180
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[28/Jun/2018 13:41:52] "POST /search/music/ HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[28/Jun/2018 13:41:55] "POST /search/music/ HTTP/1.1" 200 1481180
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[28/Jun/2018 13:41:55] "POST /search/music/ HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[28/Jun/2018 13:41:59] "POST /search/music/ HTTP/1.1" 200 1493096
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[28/Jun/2018 13:41:59] "POST /search/music/ HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[28/Jun/2018 13:42:06] "POST /search/music/ HTTP/1.1" 200 977476
+[28/Jun/2018 13:42:18] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 13:42:28] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 13:42:28] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 13:42:34] "POST /search/music/ HTTP/1.1" 200 2971
+[28/Jun/2018 13:43:48] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 13:43:48] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 13:43:54] "POST /search/music/ HTTP/1.1" 200 228790
+[28/Jun/2018 13:44:06] "POST /search/music/ HTTP/1.1" 200 3704
+[28/Jun/2018 13:44:29] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 13:44:29] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 13:44:33] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 13:44:37] "POST /search/music/ HTTP/1.1" 200 187084
+[28/Jun/2018 13:44:53] "POST /search/music/ HTTP/1.1" 200 5349716
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[28/Jun/2018 13:44:53] "POST /search/music/ HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[28/Jun/2018 13:45:27] "POST /search/music/ HTTP/1.1" 200 5349716
+[28/Jun/2018 13:58:11] "GET / HTTP/1.1" 404 74
+[28/Jun/2018 13:58:11] "GET / HTTP/1.1" 404 74
+[28/Jun/2018 14:02:21] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 14:02:21] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 14:02:21] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 14:02:25] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 14:02:33] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 14:02:38] "POST /search/music/ HTTP/1.1" 200 161789
+[28/Jun/2018 14:02:45] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 14:02:49] "POST /search/music/ HTTP/1.1" 200 11224
+[28/Jun/2018 14:03:03] "POST /search/music/ HTTP/1.1" 200 6705
+[28/Jun/2018 14:03:07] "POST /search/music/ HTTP/1.1" 200 161789
+[28/Jun/2018 14:03:08] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 14:03:09] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 14:14:35] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 14:14:35] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 14:14:35] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 14:14:36] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 14:14:50] "POST /search/music/ HTTP/1.1" 200 3702
+[28/Jun/2018 14:15:06] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 14:15:06] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 14:15:07] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 14:15:07] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 14:15:10] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 14:21:04] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 14:21:04] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 14:21:04] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 14:21:15] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 14:21:30] "POST /search/music/ HTTP/1.1" 200 48407
+[28/Jun/2018 14:21:31] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 14:28:33] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 14:28:34] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 14:28:34] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 14:28:34] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 14:28:38] "POST /search/music/ HTTP/1.1" 200 15324127
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[28/Jun/2018 14:28:38] "POST /search/music/ HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[28/Jun/2018 14:28:48] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 14:28:49] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 14:44:58] "POST /search/music/ HTTP/1.1" 200 15324127
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+TimeoutError: [Errno 110] Connection timed out
+[28/Jun/2018 14:44:58] "POST /search/music/ HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 593, in write
+    return self._sock.send(b)
+TimeoutError: [Errno 110] Connection timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[28/Jun/2018 15:14:08] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 15:14:09] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 15:14:09] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 15:14:09] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 15:47:31] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 15:47:31] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 15:47:31] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 15:47:32] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 16:49:42] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 16:49:43] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 16:49:43] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 16:49:43] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 16:49:53] "POST /search/music/ HTTP/1.1" 200 5991
+[28/Jun/2018 16:50:33] "POST /search/music/ HTTP/1.1" 200 93855
+[28/Jun/2018 16:50:45] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 16:52:41] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 16:52:41] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 16:52:46] "POST /search/music/ HTTP/1.1" 200 5991
+[28/Jun/2018 16:54:06] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 17:10:05] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 17:10:05] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 17:10:05] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 17:11:05] "GET /search/music HTTP/1.1" 301 0
+[28/Jun/2018 17:20:41] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 17:20:42] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 17:20:42] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 17:20:42] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 17:20:50] "POST /search/music/ HTTP/1.1" 200 2947
+[28/Jun/2018 17:20:57] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 17:21:03] "POST /search/music/ HTTP/1.1" 200 2952
+[28/Jun/2018 17:21:17] "POST /search/music/ HTTP/1.1" 200 4494
+[28/Jun/2018 17:21:24] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 17:21:24] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 17:28:12] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 17:28:13] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 17:28:13] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 17:28:13] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 17:28:23] "POST /search/music/ HTTP/1.1" 200 12749
+[28/Jun/2018 17:28:23] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 17:28:43] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 17:28:44] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 17:28:52] "POST /search/music/ HTTP/1.1" 200 11980
+[28/Jun/2018 17:28:52] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 17:29:10] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 18:55:17] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 18:55:18] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 18:55:18] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 18:55:34] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 18:55:34] "POST /search/music/ HTTP/1.1" 200 3747
+[28/Jun/2018 19:03:10] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 19:03:23] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 19:03:34] "POST /search/music/ HTTP/1.1" 200 291657
+[28/Jun/2018 19:03:47] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 19:03:56] "POST /search/music/ HTTP/1.1" 200 228790
+[28/Jun/2018 19:26:52] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 19:26:52] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 19:26:52] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 19:26:52] "GET /favicon.ico HTTP/1.1" 404 85
+[28/Jun/2018 19:27:00] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 19:27:06] "POST /search/music/ HTTP/1.1" 200 22531
+[28/Jun/2018 19:27:14] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 19:27:16] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 21:01:06] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 21:01:19] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 21:01:19] "POST /search/music/ HTTP/1.1" 200 2946
+[28/Jun/2018 21:01:37] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 21:01:43] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 21:03:03] "GET /search/music/ HTTP/1.1" 200 2125
+[28/Jun/2018 21:03:04] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[28/Jun/2018 21:03:04] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[28/Jun/2018 21:03:11] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 21:03:11] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 21:03:36] "POST /search/music/ HTTP/1.1" 200 2201
+[28/Jun/2018 21:03:37] "GET /search/music/ HTTP/1.0" 200 2125
+[28/Jun/2018 21:03:46] "POST /search/music/ HTTP/1.1" 200 2946
+[28/Jun/2018 21:03:48] "GET /search/music/ HTTP/1.0" 200 2125
+[29/Jun/2018 07:38:42] code 400, message Bad request syntax ('A\x00\x00\x00:0\x00\x00ÿÿÿÿÔ\x07\x00\x00\x00\x00\x00\x00test.$cmd\x00\x00\x00\x00\x00ÿÿÿÿ\x1b\x00\x00\x00\x01serverStatus\x00\x00\x00\x00\x00\x00\x00ð?\x00')
+[29/Jun/2018 07:38:42] "A   :0  ÿÿÿÿÔ      test.$cmd     ÿÿÿÿ   serverStatus       ð? " 400 -
+[29/Jun/2018 07:38:42] "GET / HTTP/1.0" 404 74
+[29/Jun/2018 07:38:43] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[29/Jun/2018 07:38:43] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[29/Jun/2018 07:38:53] "GET / HTTP/1.1" 404 74
+[29/Jun/2018 07:39:23] code 400, message Bad HTTP/0.9 request type ('\x80\x00\x00(:Ö7A\x00\x00\x00\x00\x00\x00\x00\x02\x00\x01\x86')
+[29/Jun/2018 07:39:23] "  (:Ö7A                                " 400 -
+[29/Jun/2018 08:43:46] "GET http://www.123cha.com/ HTTP/1.1" 404 95
+[29/Jun/2018 08:43:46] "GET http://www.baidu.com/ HTTP/1.1" 404 94
+[29/Jun/2018 08:44:00] "GET http://www.rfa.org/ HTTP/1.1" 404 92
+[29/Jun/2018 08:44:00] "GET http://wujieliulan.com/ HTTP/1.1" 404 96
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[29/Jun/2018 08:44:00] "GET http://www.epochtimes.com/ HTTP/1.1" 404 99
+[29/Jun/2018 08:44:00] "GET http://www.bing.com/ HTTP/1.1" 404 93
+[29/Jun/2018 08:44:00] "GET http://www.minghui.org/ HTTP/1.1" 404 96
+[29/Jun/2018 08:44:00] "CONNECT www.voanews.com:443 HTTP/1.0" 404 93
+[29/Jun/2018 09:54:16] "GET /search/music/ HTTP/1.1" 200 2125
+[29/Jun/2018 09:54:16] "GET /favicon.ico HTTP/1.1" 404 85
+[29/Jun/2018 09:54:21] "POST /search/music/ HTTP/1.1" 200 2971
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[29/Jun/2018 10:10:02] "GET /search/music/ HTTP/1.1" 200 2125
+[29/Jun/2018 10:10:03] "GET /favicon.ico HTTP/1.1" 404 85
+[29/Jun/2018 10:10:06] "POST /search/music/ HTTP/1.1" 200 7387
+[29/Jun/2018 10:10:10] "GET /search/music/ HTTP/1.1" 200 2125
+[29/Jun/2018 14:11:34] "GET /search/music/ HTTP/1.1" 200 2125
+[29/Jun/2018 14:11:34] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[29/Jun/2018 14:11:34] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[29/Jun/2018 14:11:34] "GET /favicon.ico HTTP/1.1" 404 85
+[29/Jun/2018 14:11:42] "POST /search/music/ HTTP/1.1" 200 181449
+[29/Jun/2018 14:11:54] "GET /search/music/ HTTP/1.0" 200 2125
+[29/Jun/2018 14:12:04] "POST /search/music/ HTTP/1.1" 200 2201
+[29/Jun/2018 14:12:39] "POST /search/music/ HTTP/1.1" 200 285434
+[29/Jun/2018 14:12:52] "POST /search/music/ HTTP/1.1" 200 2201
+[29/Jun/2018 14:12:56] "GET /search/music/ HTTP/1.1" 200 2125
+[29/Jun/2018 20:02:00] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[29/Jun/2018 20:02:00] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[29/Jun/2018 20:02:00] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[29/Jun/2018 20:02:00] "GET /favicon.ico HTTP/1.1" 404 85
+[30/Jun/2018 00:31:03] "GET /search/music/ HTTP/1.1" 200 2125
+[30/Jun/2018 00:31:04] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[30/Jun/2018 00:31:05] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[30/Jun/2018 00:31:05] "GET /favicon.ico HTTP/1.1" 404 85
+[30/Jun/2018 00:31:12] "POST /search/music/ HTTP/1.1" 200 5258
+[30/Jun/2018 00:31:16] "GET /search/music/ HTTP/1.1" 200 2125
+[30/Jun/2018 00:31:18] "GET /search/music/ HTTP/1.0" 200 2125
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[30/Jun/2018 08:36:48] "GET / HTTP/1.1" 404 74
+[30/Jun/2018 09:45:13] "GET / HTTP/1.1" 404 74
+[30/Jun/2018 11:11:21] "GET /search/music/ HTTP/1.1" 200 2125
+[30/Jun/2018 11:11:21] "GET /favicon.ico HTTP/1.1" 404 85
+[30/Jun/2018 11:48:27] "GET / HTTP/1.1" 404 74
+[30/Jun/2018 11:48:27] "GET / HTTP/1.1" 404 74
+[30/Jun/2018 12:31:06] "GET /search/music/ HTTP/1.1" 200 2125
+[30/Jun/2018 12:31:06] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[30/Jun/2018 12:31:06] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[30/Jun/2018 12:31:21] "POST /search/music/ HTTP/1.1" 200 61153
+[30/Jun/2018 12:31:22] "GET /search/music/ HTTP/1.0" 200 2125
+[30/Jun/2018 12:32:06] "GET /search/music HTTP/1.1" 301 0
+[30/Jun/2018 13:17:22] "POST /search/music/ HTTP/1.1" 200 61153
+[30/Jun/2018 14:44:12] "GET / HTTP/1.1" 404 74
+[30/Jun/2018 15:45:12] "GET /search/music/ HTTP/1.1" 200 2125
+[30/Jun/2018 15:45:12] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[30/Jun/2018 15:45:12] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[30/Jun/2018 18:25:15] "GET /search/music/ HTTP/1.1" 200 2125
+[30/Jun/2018 18:25:15] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[30/Jun/2018 18:25:15] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[30/Jun/2018 18:25:15] "GET /favicon.ico HTTP/1.1" 404 85
+[30/Jun/2018 18:26:14] "GET /search/music HTTP/1.1" 301 0
+[30/Jun/2018 19:32:06] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[30/Jun/2018 19:32:06] "GET /favicon.ico HTTP/1.1" 404 85
+[30/Jun/2018 19:32:31] "GET /search/music/?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2125
+[30/Jun/2018 19:32:31] "GET /search/music/?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2125
+[30/Jun/2018 19:32:31] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[30/Jun/2018 19:32:31] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[30/Jun/2018 19:32:31] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[30/Jun/2018 19:32:31] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[30/Jun/2018 19:32:56] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[30/Jun/2018 19:32:56] "GET /favicon.ico HTTP/1.1" 404 85
+[30/Jun/2018 19:33:04] "POST /search/music/?from=singlemessage&isappinstalled=0 HTTP/1.1" 403 1019
+[30/Jun/2018 19:33:05] "GET /search/music/?from=singlemessage&isappinstalled=0 HTTP/1.0" 200 2125
+[30/Jun/2018 19:33:15] "GET /search/music/?from=singlemessage&isappinstalled=0 HTTP/1.1" 200 2125
+[30/Jun/2018 20:49:34] "GET / HTTP/1.1" 404 74
+[01/Jul/2018 16:40:11] "GET /search/music/ HTTP/1.1" 200 2125
+[01/Jul/2018 16:40:12] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[01/Jul/2018 16:40:12] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[01/Jul/2018 18:39:15] "GET /search/music/ HTTP/1.1" 200 2125
+[01/Jul/2018 18:39:16] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[01/Jul/2018 18:39:16] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[01/Jul/2018 18:39:17] "GET /favicon.ico HTTP/1.1" 404 85
+[01/Jul/2018 18:39:23] "GET /search/music/ HTTP/1.1" 200 2125
+[01/Jul/2018 18:39:24] "GET /favicon.ico HTTP/1.1" 404 85
+[01/Jul/2018 18:39:34] "POST /search/music/ HTTP/1.1" 200 2952
+[01/Jul/2018 18:39:35] "GET /search/music/ HTTP/1.0" 200 2125
+[01/Jul/2018 18:39:56] "GET /search/music/ HTTP/1.1" 200 2125
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[01/Jul/2018 22:50:44] "GET /search/music/ HTTP/1.1" 200 2125
+[01/Jul/2018 22:50:44] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[01/Jul/2018 22:50:44] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[01/Jul/2018 22:50:44] "GET /favicon.ico HTTP/1.1" 404 85
+[01/Jul/2018 22:51:05] "POST /search/music/ HTTP/1.1" 200 2201
+[01/Jul/2018 22:51:08] "GET /search/music/ HTTP/1.0" 200 2125
+[01/Jul/2018 22:51:43] "GET /search/music HTTP/1.1" 301 0
+[02/Jul/2018 07:44:16] "GET /search/music/ HTTP/1.1" 200 2125
+[02/Jul/2018 07:44:16] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[02/Jul/2018 07:44:16] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[02/Jul/2018 07:44:27] "POST /search/music/ HTTP/1.1" 200 4446
+[02/Jul/2018 07:44:28] "GET /search/music/ HTTP/1.0" 200 2125
+[02/Jul/2018 07:44:45] "POST /search/music/ HTTP/1.1" 200 6866
+[02/Jul/2018 07:44:46] "GET /search/music/ HTTP/1.0" 200 2125
+[02/Jul/2018 07:45:16] "GET /search/music HTTP/1.1" 301 0
+[02/Jul/2018 07:45:17] "GET /search/music/ HTTP/1.1" 200 2125
+[02/Jul/2018 17:39:06] "GET /search/music/ HTTP/1.1" 200 2125
+[02/Jul/2018 17:39:06] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[02/Jul/2018 17:39:06] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[02/Jul/2018 23:11:10] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[02/Jul/2018 23:11:10] "  /*à     Cookie: mstshash=Administr" 400 -
+[03/Jul/2018 06:41:25] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[03/Jul/2018 06:41:25] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[03/Jul/2018 06:41:25] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[03/Jul/2018 06:41:26] "GET /favicon.ico HTTP/1.1" 404 85
+[03/Jul/2018 06:42:24] "GET /search/music/?from=singlemessage HTTP/1.1" 200 2125
+[03/Jul/2018 06:42:24] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[03/Jul/2018 18:47:41] code 400, message Bad request syntax ('A\x00\x00\x00:0\x00\x00ÿÿÿÿÔ\x07\x00\x00\x00\x00\x00\x00test.$cmd\x00\x00\x00\x00\x00ÿÿÿÿ\x1b\x00\x00\x00\x01serverStatus\x00\x00\x00\x00\x00\x00\x00ð?\x00')
+[03/Jul/2018 18:47:41] "A   :0  ÿÿÿÿÔ      test.$cmd     ÿÿÿÿ   serverStatus       ð? " 400 -
+[03/Jul/2018 18:47:41] "GET / HTTP/1.0" 404 74
+[03/Jul/2018 18:47:41] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[03/Jul/2018 18:47:41] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[03/Jul/2018 18:47:51] "GET / HTTP/1.1" 404 74
+[03/Jul/2018 18:48:21] code 400, message Bad request version ('\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[03/Jul/2018 18:48:21] "  (ýÚ(                                " 400 -
+[05/Jul/2018 07:50:07] "GET /search/music/ HTTP/1.1" 200 2125
+[05/Jul/2018 07:50:07] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[05/Jul/2018 07:50:07] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[05/Jul/2018 07:50:08] "GET /favicon.ico HTTP/1.1" 404 85
+[05/Jul/2018 07:50:26] "POST /search/music/ HTTP/1.1" 200 161789
+[05/Jul/2018 07:50:27] "GET /favicon.ico HTTP/1.1" 404 85
+[05/Jul/2018 07:51:04] "POST /search/music/ HTTP/1.1" 200 2201
+[05/Jul/2018 07:51:05] "GET /favicon.ico HTTP/1.1" 404 85
+[05/Jul/2018 07:51:11] "POST /search/music/ HTTP/1.1" 200 2201
+[05/Jul/2018 07:51:11] "GET /favicon.ico HTTP/1.1" 404 85
+[05/Jul/2018 23:05:15] "GET /search/music/ HTTP/1.1" 200 2125
+[05/Jul/2018 23:05:15] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[05/Jul/2018 23:05:15] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[05/Jul/2018 23:05:16] "GET /favicon.ico HTTP/1.1" 404 85
+[05/Jul/2018 23:05:34] "POST /search/music/ HTTP/1.1" 200 7422
+[05/Jul/2018 23:05:43] "GET /search/music/ HTTP/1.1" 200 2125
+[05/Jul/2018 23:05:44] "GET /search/music/ HTTP/1.0" 200 2125
+[05/Jul/2018 23:06:15] "GET /search/music HTTP/1.1" 301 0
+[07/Jul/2018 21:35:30] "GET http://www.123cha.com/ HTTP/1.1" 404 95
+[07/Jul/2018 21:35:30] "GET http://www.baidu.com/ HTTP/1.1" 404 94
+[07/Jul/2018 21:35:35] "GET http://www.bing.com/ HTTP/1.1" 404 93
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[07/Jul/2018 21:35:51] "GET http://www.rfa.org/ HTTP/1.1" 404 92
+[07/Jul/2018 21:35:51] "GET http://www.epochtimes.com/ HTTP/1.1" 404 99
+[07/Jul/2018 21:35:51] "GET http://wujieliulan.com/ HTTP/1.1" 404 96
+[07/Jul/2018 21:35:51] "GET http://www.minghui.org/ HTTP/1.1" 404 96
+[07/Jul/2018 21:35:51] "CONNECT www.voanews.com:443 HTTP/1.0" 404 93
+[07/Jul/2018 22:00:55] "GET /search/music/ HTTP/1.1" 200 2125
+[07/Jul/2018 22:00:56] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[07/Jul/2018 22:00:56] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[07/Jul/2018 22:00:58] "GET /favicon.ico HTTP/1.1" 404 85
+[07/Jul/2018 22:01:54] "GET /search/music HTTP/1.1" 301 0
+[08/Jul/2018 21:23:50] "GET /search/music/ HTTP/1.1" 200 2125
+[08/Jul/2018 21:23:51] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[08/Jul/2018 21:23:51] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[08/Jul/2018 21:23:53] "GET /favicon.ico HTTP/1.1" 404 85
+[08/Jul/2018 21:24:15] "POST /search/music/ HTTP/1.1" 200 11987
+[08/Jul/2018 21:24:27] "GET /search/music/ HTTP/1.1" 200 2125
+[08/Jul/2018 21:24:36] "GET /search/music/ HTTP/1.0" 200 2125
+[08/Jul/2018 21:24:37] "GET /search/music/ HTTP/1.1" 200 2125
+[08/Jul/2018 21:24:37] "GET /favicon.ico HTTP/1.1" 404 85
+[09/Jul/2018 22:58:52] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie:')
+[09/Jul/2018 22:58:52] "  +&à     Cookie: mstshash=hello" 400 -
+[09/Jul/2018 23:48:02] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie:')
+[09/Jul/2018 23:48:02] "  +&à     Cookie: mstshash=hello" 400 -
+[10/Jul/2018 00:37:05] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie:')
+[10/Jul/2018 00:37:05] "  +&à     Cookie: mstshash=hello" 400 -
+[10/Jul/2018 20:15:22] "GET /search/music/ HTTP/1.1" 200 2125
+[10/Jul/2018 20:15:22] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[10/Jul/2018 20:15:22] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[10/Jul/2018 20:15:23] "GET /favicon.ico HTTP/1.1" 404 85
+[10/Jul/2018 20:15:28] "POST /search/music/ HTTP/1.1" 200 104056
+[10/Jul/2018 20:16:02] "GET /search/music/ HTTP/1.0" 200 2125
+[10/Jul/2018 20:16:22] "GET /search/music HTTP/1.1" 301 0
+[11/Jul/2018 07:42:13] "GET /search/music/ HTTP/1.1" 200 2125
+[11/Jul/2018 07:42:13] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[11/Jul/2018 07:42:13] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[11/Jul/2018 07:42:14] "GET /favicon.ico HTTP/1.1" 404 85
+[11/Jul/2018 07:43:51] "POST /search/music/ HTTP/1.1" 200 2940
+[11/Jul/2018 07:44:17] "GET /search/music/ HTTP/1.1" 200 2125
+[11/Jul/2018 07:44:20] "GET /search/music/ HTTP/1.0" 200 2125
+[11/Jul/2018 09:38:44] "GET /search/music/ HTTP/1.1" 200 2125
+[11/Jul/2018 09:38:45] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[11/Jul/2018 09:38:45] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[11/Jul/2018 09:38:45] "GET /favicon.ico HTTP/1.1" 404 85
+[12/Jul/2018 19:14:45] "GET / HTTP/1.0" 404 74
+[12/Jul/2018 19:14:46] "OPTIONS / HTTP/1.0" 404 74
+[12/Jul/2018 19:14:47] code 400, message Bad request version ('RTSP/1.0')
+[12/Jul/2018 19:14:47] "OPTIONS / RTSP/1.0" 400 -
+[12/Jul/2018 19:14:52] code 400, message Bad request version ('\x00\x01\x97|\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[12/Jul/2018 19:14:52] "  (rþ          |                    " 400 -
+[12/Jul/2018 19:14:58] code 400, message Bad HTTP/0.9 request type ('\x00')
+[12/Jul/2018 19:14:58] "          versionbind   " 400 -
+[12/Jul/2018 19:15:03] code 400, message Bad HTTP/0.9 request type ('\x00')
+[12/Jul/2018 19:15:03] "            " 400 -
+[12/Jul/2018 19:15:03] code 400, message Bad request syntax ('HELP')
+[12/Jul/2018 19:15:03] "HELP" 400 -
+[12/Jul/2018 19:15:04] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[12/Jul/2018 19:15:04] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[12/Jul/2018 19:15:04] code 400, message Bad request version ('\x00/\x00')
+[12/Jul/2018 19:15:04] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[12/Jul/2018 19:15:05] code 400, message Bad request syntax ('\x00\x00\x00qj\x81n0\x81k¡\x03\x02\x01\x05¢\x03\x02\x01')
+[12/Jul/2018 19:15:05] "   qjn0k¡¢" 400 -
+[12/Jul/2018 19:15:11] code 400, message Bad request syntax ('\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00')
+[12/Jul/2018 19:15:11] "   ¤ÿSMBr    @              @     PC NETWORK PROGRAM 1.0 MICROSOFT NETWORKS 1.03 MICROSOFT NETWORKS 3.0 LANMAN1.0 LM1.2X002 Samba NT LANMAN 1.0 NT LM 0.12 " 400 -
+[12/Jul/2018 19:15:16] code 400, message Bad HTTP/0.9 request type ('l\x00')
+[12/Jul/2018 19:15:16] "l          " 400 -
+[12/Jul/2018 19:15:16] "GET /nice%20ports%2C/Tri%6Eity.txt%2ebak HTTP/1.0" 404 101
+[12/Jul/2018 19:15:17] code 400, message Bad request syntax ('\x01default')
+[12/Jul/2018 19:15:17] "default" 400 -
+[12/Jul/2018 19:15:22] code 400, message Bad HTTP/0.9 request type ('0')
+[12/Jul/2018 19:15:22] "0`  " 400 -
+[12/Jul/2018 19:15:23] code 400, message Bad request version ('SIP/2.0')
+[12/Jul/2018 19:15:23] "OPTIONS sip:nm SIP/2.0" 400 -
+[12/Jul/2018 19:15:28] code 400, message Bad request syntax ('TNMP\x04\x00\x00\x00TNME\x00\x00\x04\x00')
+[12/Jul/2018 19:15:28] "TNMP   TNME   " 400 -
+[12/Jul/2018 19:15:33] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00')
+[12/Jul/2018 19:15:33] "  à     " 400 -
+[12/Jul/2018 19:15:39] code 400, message Bad request syntax ('DmdT\x00\x00\x00\x17\x00\x00\x00\x01\x00\x00\x00\x00\x11\x11\x00ÿ\x01ÿ\x13')
+[12/Jul/2018 19:15:39] "DmdT           ÿÿ" 400 -
+[12/Jul/2018 19:15:44] code 400, message Bad HTTP/0.9 request type (':\x00\x00\x00/\x00\x00\x00\x02\x00\x00@\x02\x0f\x00\x01\x00=\x05\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00/\x00\x00\x00\x00\x00\x00\x00\x00\x00@')
+[12/Jul/2018 19:15:44] ":   /     @  =            /         @                 " 400 -
+[12/Jul/2018 19:15:49] code 400, message Bad request syntax ('\x01\x00\x00ýÎú\x0b°\xa0\x00\x00\x00MMS\x14\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x12\x00\x00\x00\x01\x00\x03\x00ðððð\x0b\x00\x04\x00\x1c\x00\x03\x00N\x00S\x00P\x00l\x00a\x00y\x00e\x00r\x00/\x009\x00.\x000\x00.\x000\x00.\x002\x009\x008\x000\x00;\x00 \x00{\x000\x000\x000\x000\x00A\x00A\x000\x000\x00-\x000\x00A\x000\x000\x00-\x000\x000\x00a\x000\x00-\x00A\x00A\x000\x00A\x00-\x000\x000\x000\x000\x00A\x000\x00A\x00A\x000\x00A\x00A\x000\x00}\x00\x00\x00àmß_')
+[12/Jul/2018 19:15:49] "  ýÎú°    MMS                    ðððð    N S P l a y e r / 9 . 0 . 0 . 2 9 8 0 ;   { 0 0 0 0 A A 0 0 - 0 A 0 0 - 0 0 a 0 - A A 0 A - 0 0 0 0 A 0 A A 0 A A 0 }   àmß_" 400 -
+[12/Jul/2018 19:15:55] code 400, message Bad HTTP/0.9 request type ('\x00Z\x00\x00\x01\x00\x00\x00\x016\x01,\x00\x00\x08\x00\x7fÿ\x7f\x08\x00\x00\x00\x01\x00')
+[12/Jul/2018 19:15:55] " Z     6,   ÿ      :                4æ           (CONNECT_DATA=(COMMAND=version))" 400 -
+[12/Jul/2018 19:16:00] code 400, message Bad request syntax ('\x00\x03\x00\x01\x00\x00\x00\x00\x00\x00\x00\x02\x00\x00\x00\x00\x0f\x00')
+[12/Jul/2018 19:16:00] "              " 400 -
+[12/Jul/2018 19:16:05] code 400, message Bad request syntax ('\x94\x00ÍïÑa\x91\x03')
+[12/Jul/2018 19:16:05] " ÍïÑa" 400 -
+[12/Jul/2018 19:16:10] code 400, message Bad request syntax ('GIOP\x01\x00\x01\x00$\x00\x00\x00\x00\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x00\x06\x00\x00\x00abcdef\x00\x00\x04\x00\x00\x00get\x00\x00\x00\x00\x00')
+[12/Jul/2018 19:16:10] "GIOP  $                abcdef     get     " 400 -
+[12/Jul/2018 19:16:48] "GET / HTTP/1.1" 404 74
+[12/Jul/2018 19:17:02] code 400, message Bad request version ('\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[12/Jul/2018 19:17:02] "  (ù.`                                " 400 -
+[12/Jul/2018 20:40:14] code 400, message Bad request syntax ('A\x00\x00\x00:0\x00\x00ÿÿÿÿÔ\x07\x00\x00\x00\x00\x00\x00test.$cmd\x00\x00\x00\x00\x00ÿÿÿÿ\x1b\x00\x00\x00\x01serverStatus\x00\x00\x00\x00\x00\x00\x00ð?\x00')
+[12/Jul/2018 20:40:14] "A   :0  ÿÿÿÿÔ      test.$cmd     ÿÿÿÿ   serverStatus       ð? " 400 -
+[12/Jul/2018 20:40:14] "GET / HTTP/1.0" 404 74
+[12/Jul/2018 20:40:14] code 400, message Bad request syntax ('\x16\x03\x00\x00S\x01\x00\x00O\x03\x00?G×÷º,îê²`~ó\x00ý\x82{¹Õ\x96Èw\x9bæÄÛ<=Ûoï\x10n\x00\x00(\x00\x16\x00\x13\x00')
+[12/Jul/2018 20:40:14] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[12/Jul/2018 20:40:24] "GET / HTTP/1.1" 404 74
+[12/Jul/2018 20:40:54] code 400, message Bad request version ('\x00\x00\x00\x02\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+[12/Jul/2018 20:40:54] "  (³©                                " 400 -
+[12/Jul/2018 22:43:53] "GET /search/music/ HTTP/1.1" 200 2125
+[12/Jul/2018 22:43:53] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[12/Jul/2018 22:43:53] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[12/Jul/2018 22:44:00] "GET /search/music/ HTTP/1.1" 200 2125
+[12/Jul/2018 22:44:07] "GET /search/music/ HTTP/1.1" 200 2125
+[12/Jul/2018 22:44:07] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[12/Jul/2018 22:44:07] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[12/Jul/2018 22:44:14] "POST /search/music/ HTTP/1.1" 200 29349
+[12/Jul/2018 22:44:53] "GET /search/music HTTP/1.1" 301 0
+[13/Jul/2018 07:16:36] "GET /search/music/ HTTP/1.1" 200 2125
+[13/Jul/2018 07:16:36] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[13/Jul/2018 07:16:36] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[13/Jul/2018 07:16:37] "GET /favicon.ico HTTP/1.1" 404 85
+[13/Jul/2018 07:16:57] "POST /search/music/ HTTP/1.1" 200 2201
+[13/Jul/2018 07:17:15] "POST /search/music/ HTTP/1.1" 200 1440629
+[13/Jul/2018 07:17:27] "GET /search/music/ HTTP/1.1" 200 2125
+[13/Jul/2018 07:17:28] "GET /favicon.ico HTTP/1.1" 404 85
+[13/Jul/2018 07:17:34] "GET /search/music HTTP/1.1" 301 0
+[13/Jul/2018 07:17:40] "POST /search/music/ HTTP/1.1" 200 28200
+[13/Jul/2018 21:54:44] "GET /search/music/ HTTP/1.1" 200 2125
+[13/Jul/2018 21:54:45] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[13/Jul/2018 21:54:45] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[13/Jul/2018 21:54:45] "GET /search/music/favicon.ico HTTP/1.1" 404 98
+[13/Jul/2018 21:54:53] "POST /search/music/ HTTP/1.1" 200 104056
+[13/Jul/2018 21:57:34] "GET /search/music/ HTTP/1.1" 200 2125
+[13/Jul/2018 21:59:24] "POST /search/music/ HTTP/1.1" 200 104056
+[13/Jul/2018 22:45:34] "GET /search/music/ HTTP/1.1" 200 2125
+[13/Jul/2018 22:45:35] "GET /static/clipboard.min.js HTTP/1.1" 200 10917
+[13/Jul/2018 22:45:35] "GET /static/search/weui.min.css HTTP/1.1" 200 50608
+[13/Jul/2018 22:45:35] "GET /favicon.ico HTTP/1.1" 404 85
+[13/Jul/2018 22:45:35] "GET /favicon.ico HTTP/1.1" 404 85
+[13/Jul/2018 22:45:35] "GET /favicon.ico HTTP/1.1" 404 85
+[13/Jul/2018 22:46:22] "GET /search/music/ HTTP/1.1" 200 2125
+[13/Jul/2018 22:46:23] "GET /favicon.ico HTTP/1.1" 404 85
+[13/Jul/2018 22:46:23] "GET /favicon.ico HTTP/1.1" 404 85
+[13/Jul/2018 22:46:23] "GET /favicon.ico HTTP/1.1" 404 85
+[13/Jul/2018 22:46:53] "POST /search/music/ HTTP/1.1" 200 104056
+[13/Jul/2018 22:59:08] "GET http://www.123cha.com/ HTTP/1.1" 404 95
+[13/Jul/2018 22:59:13] "GET http://www.rfa.org/ HTTP/1.1" 404 92
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/ubuntu/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 575, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[13/Jul/2018 22:59:13] "GET http://www.epochtimes.com/ HTTP/1.1" 404 99
+[13/Jul/2018 22:59:13] "GET http://www.minghui.org/ HTTP/1.1" 404 96
+[13/Jul/2018 22:59:13] "GET http://wujieliulan.com/ HTTP/1.1" 404 96
+[13/Jul/2018 22:59:13] "GET http://www.bing.com/ HTTP/1.1" 404 93
+[13/Jul/2018 22:59:13] "CONNECT www.voanews.com:443 HTTP/1.0" 404 93
+[13/Jul/2018 22:59:13] "GET http://www.baidu.com/ HTTP/1.1" 404 94
+[13/Jul/2018 22:59:37] "GET /search/music/ HTTP/1.1" 200 2125
+[13/Jul/2018 22:59:42] "CONNECT dnspod.qcloud.com:443 HTTP/1.0" 404 95
+[13/Jul/2018 22:59:48] "POST /search/music/ HTTP/1.1" 200 181449
+[13/Jul/2018 23:01:55] "POST /search/music/ HTTP/1.1" 200 2201
+[13/Jul/2018 23:02:00] "POST /search/music/ HTTP/1.1" 200 2201
+[13/Jul/2018 23:02:32] "POST /search/music/ HTTP/1.1" 200 162337
+[13/Jul/2018 23:05:07] "POST /search/music/ HTTP/1.1" 200 2201
+[13/Jul/2018 23:05:17] "POST /search/music/ HTTP/1.1" 200 2201
+[13/Jul/2018 23:05:38] "POST /search/music/ HTTP/1.1" 200 2201
+[13/Jul/2018 23:06:54] "POST /search/music/ HTTP/1.1" 200 2201
+[13/Jul/2018 23:07:10] "POST /search/music/ HTTP/1.1" 200 2201
+[13/Jul/2018 23:07:22] "POST /search/music/ HTTP/1.1" 200 2201
+[13/Jul/2018 23:07:45] "POST /search/music/ HTTP/1.1" 200 2979
+[13/Jul/2018 23:08:06] "POST /search/music/ HTTP/1.1" 200 143144
+[15/Jul/2018 01:59:35] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[15/Jul/2018 01:59:35] "  /*à     Cookie: mstshash=Administr" 400 -
+[15/Jul/2018 04:23:21] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[15/Jul/2018 04:23:21] "  /*à     Cookie: mstshash=Administr" 400 -
+[15/Jul/2018 06:25:27] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[15/Jul/2018 06:25:27] "  /*à     Cookie: mstshash=Administr" 400 -
+[15/Jul/2018 07:55:44] "GET / HTTP/1.1" 404 74
+[15/Jul/2018 07:55:44] "GET /index.action HTTP/1.1" 404 86
+[15/Jul/2018 08:15:42] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+[15/Jul/2018 08:15:42] "  /*à     Cookie: mstshash=Administr" 400 -
